@@ -1,0 +1,4 @@
+backend/receipt_scanner/donut-receipt-parser/checkpoint-3130/* filter=lfs diff=lfs merge=lfs -text
+backend/receipt_scanner/donut-receipt-parser/model.safetensors filter=lfs diff=lfs merge=lfs -text
+backend/receipt_scanner/sroie/layoutlm-base-uncased/*.bin filter=lfs diff=lfs merge=lfs -text
+backend/receipt_scanner/sroie/**/*.jpg filter=lfs diff=lfs merge=lfs -text
