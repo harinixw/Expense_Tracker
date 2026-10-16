@@ -1,0 +1,626 @@
+{"file_name": "X00016469612.jpg", "ground_truth": "{\"brand\": \"BOOK TA .K (TAMAN DAYA) SDN BHD\", \"category\": \"Retail\", \"date\": \"25/12/2018\", \"amount\": \"9.00\"}"}
+{"file_name": "X00016469619.jpg", "ground_truth": "{\"brand\": \"INDAH GIFT & HOME DECO\", \"category\": \"Retail\", \"date\": \"19/10/2018\", \"amount\": \"60.30\"}"}
+{"file_name": "X00016469620.jpg", "ground_truth": "{\"brand\": \"MR D.I.Y. (JOHOR) SDN BHD\", \"category\": \"Retail\", \"date\": \"12-01-19\", \"amount\": \"33.90\"}"}
+{"file_name": "X00016469622.jpg", "ground_truth": "{\"brand\": \"YONGFATT ENTERPRISE\", \"category\": \"Retail\", \"date\": \"25/12/2018\", \"amount\": \"80.90\"}"}
+{"file_name": "X00016469623.jpg", "ground_truth": "{\"brand\": \"MR D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"18-11-18\", \"amount\": \"30.90\"}"}
+{"file_name": "X00016469669.jpg", "ground_truth": "{\"brand\": \"ABC HO TRADING\", \"category\": \"Groceries\", \"date\": \"09/01/2019\", \"amount\": \"31.00\"}"}
+{"file_name": "X00016469672.jpg", "ground_truth": "{\"brand\": \"SOON HUAT MACHINERY ENTERPRISE\", \"category\": \"Retail\", \"date\": \"11/01/2019\", \"amount\": \"327.00\"}"}
+{"file_name": "X00016469676.jpg", "ground_truth": "{\"brand\": \"S.H.H. MOTOR (SUNGAI RENGIT) SDN. BHD.\", \"category\": \"Transport\", \"date\": \"23-01-2019\", \"amount\": \"20.00\"}"}
+{"file_name": "X51005200938.jpg", "ground_truth": "{\"brand\": \"PERNIAGAAN ZHENG HUI\", \"category\": \"General\", \"date\": \"12/02/2018\", \"amount\": \"112.45\"}"}
+{"file_name": "X51005230617.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"18/01/2018\", \"amount\": \"26.60\"}"}
+{"file_name": "X51005255805.jpg", "ground_truth": "{\"brand\": \"SAM SAM TRADING CO\", \"category\": \"General\", \"date\": \"29-12-2017\", \"amount\": \"14.10\"}"}
+{"file_name": "X51005268200.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"15/06/2017\", \"amount\": \"15.00\"}"}
+{"file_name": "X51005268262.jpg", "ground_truth": "{\"brand\": \"HOME MASTER HARDWARE & ELECTRICAL\", \"category\": \"Retail\", \"date\": \"22/12/2017\", \"amount\": \"15.90\"}"}
+{"file_name": "X51005268400.jpg", "ground_truth": "{\"brand\": \"RESTORAN HASSANBISTRO\", \"category\": \"Dining\", \"date\": \"12/28/2017\", \"amount\": \"15.00\"}"}
+{"file_name": "X51005268472.jpg", "ground_truth": "{\"brand\": \"ASIA MART\", \"category\": \"Groceries\", \"date\": \"22/12/2017\", \"amount\": \"32.70\"}"}
+{"file_name": "X51005301659.jpg", "ground_truth": "{\"brand\": \"HOME MASTER HARDWARE & ELECTRICAL\", \"category\": \"Retail\", \"date\": \"22/12/2017\", \"amount\": \"15.90\"}"}
+{"file_name": "X51005301661.jpg", "ground_truth": "{\"brand\": \"LIGHTROOM GALLERY SDN BHD\", \"category\": \"General\", \"date\": \"20/12/2017\", \"amount\": \"73.00\"}"}
+{"file_name": "X51005301667.jpg", "ground_truth": "{\"brand\": \"LIGHTROOM GALLERY SDN BHD\", \"category\": \"General\", \"date\": \"20/11/2017\", \"amount\": \"39.80\"}"}
+{"file_name": "X51005303661.jpg", "ground_truth": "{\"brand\": \"LIGHTROOM GALLERY SDN BHD\", \"category\": \"General\", \"date\": \"20/12/2017\", \"amount\": \"73.00\"}"}
+{"file_name": "X51005306399.jpg", "ground_truth": "{\"brand\": \"SHELL ISNI PETRO TRADING\", \"category\": \"Transport\", \"date\": \"18/03/18\", \"amount\": \"86.00\"}"}
+{"file_name": "X51005337872.jpg", "ground_truth": "{\"brand\": \"SYL ROASTED DELIGHTS SDN. BHD.\", \"category\": \"Dining\", \"date\": \"06/03/2018\", \"amount\": \"54.50\"}"}
+{"file_name": "X51005361883.jpg", "ground_truth": "{\"brand\": \"TEO HENG STATIONERY & BOOKS\", \"category\": \"Retail\", \"date\": \"18/01/2018\", \"amount\": \"4.90\"}"}
+{"file_name": "X51005361895.jpg", "ground_truth": "{\"brand\": \"FUYI MINI MARKET\", \"category\": \"Groceries\", \"date\": \"25/01/2018\", \"amount\": \"9.00\"}"}
+{"file_name": "X51005361897.jpg", "ground_truth": "{\"brand\": \"TEO HENG STATIONERY & BOOKS\", \"category\": \"Retail\", \"date\": \"17/01/2018\", \"amount\": \"27.55\"}"}
+{"file_name": "X51005361898.jpg", "ground_truth": "{\"brand\": \"TEO HENG STATIONERY & BOOKS\", \"category\": \"Retail\", \"date\": \"15/01/2018\", \"amount\": \"55.10\"}"}
+{"file_name": "X51005361900.jpg", "ground_truth": "{\"brand\": \"TEO HENG STATIONERY & BOOKS\", \"category\": \"Retail\", \"date\": \"23/01/2018\", \"amount\": \"18.00\"}"}
+{"file_name": "X51005361907.jpg", "ground_truth": "{\"brand\": \"TED HENG STATIONERY & BOOKS\", \"category\": \"Retail\", \"date\": \"12/02/2018\", \"amount\": \"153.35\"}"}
+{"file_name": "X51005361946.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"14-03-18\", \"amount\": \"37.10\"}"}
+{"file_name": "X51005361950.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"24-01-18\", \"amount\": \"2.50\"}"}
+{"file_name": "X51005365179.jpg", "ground_truth": "{\"brand\": \"C W KHOO HARDWARE SDN BHD\", \"category\": \"Retail\", \"date\": \"01-03-18\", \"amount\": \"21.20\"}"}
+{"file_name": "X51005433492.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"05 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005433494.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"06/03/2018\", \"amount\": \"75.00\"}"}
+{"file_name": "X51005433514.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"03 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005433522.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"10 MAR 2018\", \"amount\": \"\"}"}
+{"file_name": "X51005433533.jpg", "ground_truth": "{\"brand\": \"PERNIAGAAN ZHENG HUI\", \"category\": \"General\", \"date\": \"09/03/2018\", \"amount\": \"332.30\"}"}
+{"file_name": "X51005433538.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"12 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005433541.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"14 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005433552.jpg", "ground_truth": "{\"brand\": \"WARAKUYA PERMAS CITY SDN BHD\", \"category\": \"Dining\", \"date\": \"10/03/2018\", \"amount\": \"57.80\"}"}
+{"file_name": "X51005433553.jpg", "ground_truth": "{\"brand\": \"YHM AEON TEBRAU CITY\", \"category\": \"Retail\", \"date\": \"11/03/2018\", \"amount\": \"13.10\"}"}
+{"file_name": "X51005441398.jpg", "ground_truth": "{\"brand\": \"OWNER BY CASTLE BLUE S/B\", \"category\": \"General\", \"date\": \"30/03/2018\", \"amount\": \"189.75\"}"}
+{"file_name": "X51005441401.jpg", "ground_truth": "{\"brand\": \"THREE STOOGES\", \"category\": \"General\", \"date\": \"12/03/2018\", \"amount\": \"343.95\"}"}
+{"file_name": "X51005441402.jpg", "ground_truth": "{\"brand\": \"THREE STOOGES\", \"category\": \"General\", \"date\": \"03/03/2018\", \"amount\": \"174.90\"}"}
+{"file_name": "X51005441407.jpg", "ground_truth": "{\"brand\": \"TASTE OF THE WORLD SDN BHD\", \"category\": \"Dining\", \"date\": \"5/3/2018\", \"amount\": \"64.15\"}"}
+{"file_name": "X51005441408.jpg", "ground_truth": "{\"brand\": \"32 PUB & BISTRO OWN BY CNU TRADING\", \"category\": \"Dining\", \"date\": \"10-03-2018\", \"amount\": \"190.00\"}"}
+{"file_name": "X51005442327.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"18 MAR 2018\", \"amount\": \"$8.60\"}"}
+{"file_name": "X51005442333.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"27 MAR 2018\", \"amount\": \"$6.90\"}"}
+{"file_name": "X51005442338.jpg", "ground_truth": "{\"brand\": \"PASAR MINI JIN SENG\", \"category\": \"Groceries\", \"date\": \"18/03/18\", \"amount\": \"28.60\"}"}
+{"file_name": "X51005442341.jpg", "ground_truth": "{\"brand\": \"RESTAURANT SIN DU\", \"category\": \"Dining\", \"date\": \"09/03/2018\", \"amount\": \"170.00\"}"}
+{"file_name": "X51005442344.jpg", "ground_truth": "{\"brand\": \"YONG TAT HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"13/03/2018\", \"amount\": \"100.90\"}"}
+{"file_name": "X51005442346.jpg", "ground_truth": "{\"brand\": \"PERNIAGAAN ZHENG HUI\", \"category\": \"General\", \"date\": \"15/03/2018\", \"amount\": \"8.00\"}"}
+{"file_name": "X51005442361.jpg", "ground_truth": "{\"brand\": \"TIMELESS KITCHENETTE SDN BHD\", \"category\": \"Dining\", \"date\": \"2018-03-23\", \"amount\": \"593.10\"}"}
+{"file_name": "X51005442376.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"22 MAR 2018\", \"amount\": \"$7.60\"}"}
+{"file_name": "X51005442378.jpg", "ground_truth": "{\"brand\": \"PAGOH REST AND SERVICE AREA\", \"category\": \"General\", \"date\": \"23/03/2018\", \"amount\": \"10.00\"}"}
+{"file_name": "X51005442379.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"24 MAR 2018\", \"amount\": \"$9.20\"}"}
+{"file_name": "X51005442383.jpg", "ground_truth": "{\"brand\": \"CARREFOUR RESTAURANT\", \"category\": \"Dining\", \"date\": \"20/03/2018\", \"amount\": \"13.80\"}"}
+{"file_name": "X51005442384.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"19 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005442386.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"21 MAR 2018\", \"amount\": \"$8.70\"}"}
+{"file_name": "X51005442392.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"29 MAR 2018\", \"amount\": \"$7.10\"}"}
+{"file_name": "X51005442394.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"30 MAR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51005442397.jpg", "ground_truth": "{\"brand\": \"TRIPLE SIX POINT ENTERPRISE 666\", \"category\": \"General\", \"date\": \"25-03-2018\", \"amount\": \"7.60\"}"}
+{"file_name": "X51005444033.jpg", "ground_truth": "{\"brand\": \"BENS INDEPENDENT GROCER SDN. BHD\", \"category\": \"Groceries\", \"date\": \"12/03/18\", \"amount\": \"77.20\"}"}
+{"file_name": "X51005444037.jpg", "ground_truth": "{\"brand\": \"NANDO'S CHICKENLAND MALAYSIA SDN BHD\", \"category\": \"Dining\", \"date\": \"28 MAR 18\", \"amount\": \"129.30\"}"}
+{"file_name": "X51005444045.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"19-03-18\", \"amount\": \"11.40\"}"}
+{"file_name": "X51005447832.jpg", "ground_truth": "{\"brand\": \"PETRODELI ENTERPRISE\", \"category\": \"Transport\", \"date\": \"26/02/18\", \"amount\": \"85.54\"}"}
+{"file_name": "X51005447833.jpg", "ground_truth": "{\"brand\": \"SUN WONG KUT SDN BHD\", \"category\": \"General\", \"date\": \"21/02/18\", \"amount\": \"88.17\"}"}
+{"file_name": "X51005447839.jpg", "ground_truth": "{\"brand\": \"RESTAURANT JIAWEI JIAWEI HOUSE\", \"category\": \"Dining\", \"date\": \"9/3/2018\", \"amount\": \"65.20\"}"}
+{"file_name": "X51005447840.jpg", "ground_truth": "{\"brand\": \"PASARAYA BORONG PINTAR SDN BHD\", \"category\": \"Groceries\", \"date\": \"14/03/2018\", \"amount\": \"8.20\"}"}
+{"file_name": "X51005447848.jpg", "ground_truth": "{\"brand\": \"LIAN CHI PU TIAN VEGETARIAN RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"06/01/18\", \"amount\": \"53.55\"}"}
+{"file_name": "X51005447850.jpg", "ground_truth": "{\"brand\": \"PASARAYA BORONG PINTAR SDN BHD\", \"category\": \"Groceries\", \"date\": \"20180304\", \"amount\": \"3.20\"}"}
+{"file_name": "X51005447852.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"20-02-18\", \"amount\": \"9.90\"}"}
+{"file_name": "X51005447853.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"05-02-18\", \"amount\": \"141.50\"}"}
+{"file_name": "X51005447860.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"19/02/2018\", \"amount\": \"17.70\"}"}
+{"file_name": "X51005447861.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"01/03/18\", \"amount\": \"49.40\"}"}
+{"file_name": "X51005453729.jpg", "ground_truth": "{\"brand\": \"LIAN HING STATIONERY SDN BHD\", \"category\": \"Retail\", \"date\": \"27/03/2018\", \"amount\": \"79.50\"}"}
+{"file_name": "X51005453801.jpg", "ground_truth": "{\"brand\": \"GL HANDICRAFT & TAIL ORING\", \"category\": \"Retail\", \"date\": \"20/03/2018\", \"amount\": \"102.00\"}"}
+{"file_name": "X51005453802.jpg", "ground_truth": "{\"brand\": \"LIAN HING STATIONERY SDN BHD\", \"category\": \"Retail\", \"date\": \"30/03/2018\", \"amount\": \"159.00\"}"}
+{"file_name": "X51005453804.jpg", "ground_truth": "{\"brand\": \"LIAN HING STATIONERY SDN BHD\", \"category\": \"Retail\", \"date\": \"27/03/2018\", \"amount\": \"12.00\"}"}
+{"file_name": "X51005568827.jpg", "ground_truth": "{\"brand\": \"BANH MI CAFE SDN BHD\", \"category\": \"Dining\", \"date\": \"29-10-2017\", \"amount\": \"23.25\"}"}
+{"file_name": "X51005568829.jpg", "ground_truth": "{\"brand\": \"THAI DELICIOUS RESTAURANT\", \"category\": \"Dining\", \"date\": \"02/02/2017\", \"amount\": \"92.80\"}"}
+{"file_name": "X51005568880.jpg", "ground_truth": "{\"brand\": \"MR.D.I.Y(M)SDN BHD\", \"category\": \"Retail\", \"date\": \"19-09-17\", \"amount\": \"15.90\"}"}
+{"file_name": "X51005568881.jpg", "ground_truth": "{\"brand\": \"HON HWA HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"21/09/2017\", \"amount\": \"10.40\"}"}
+{"file_name": "X51005568884.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. SDN BHD\", \"category\": \"Retail\", \"date\": \"24-11-17\", \"amount\": \"RM 3.90\"}"}
+{"file_name": "X51005568891.jpg", "ground_truth": "{\"brand\": \"HON HWA HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"08/02/2017\", \"amount\": \"277.00\"}"}
+{"file_name": "X51005568898.jpg", "ground_truth": "{\"brand\": \"VIVOPAC MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"30/05/2017\", \"amount\": \"18.80\"}"}
+{"file_name": "X51005568899.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. SDN BHD\", \"category\": \"Retail\", \"date\": \"18-10-17\", \"amount\": \"5.90\"}"}
+{"file_name": "X51005568900.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. SDN BHD\", \"category\": \"Retail\", \"date\": \"28-12-17\", \"amount\": \"9.90\"}"}
+{"file_name": "X51005568911.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"08-03-17\", \"amount\": \"37.80\"}"}
+{"file_name": "X51005568913.jpg", "ground_truth": "{\"brand\": \"IKANO HANDEL SDN BHD\", \"category\": \"Retail\", \"date\": \"27/07/17\", \"amount\": \"538.00\"}"}
+{"file_name": "X51005568914.jpg", "ground_truth": "{\"brand\": \"IKANO HANDEL SDN BHD\", \"category\": \"Retail\", \"date\": \"09/08/17\", \"amount\": \"99.80\"}"}
+{"file_name": "X51005577192.jpg", "ground_truth": "{\"brand\": \"FY EAGLE ENTERPRISE\", \"category\": \"General\", \"date\": \"04/12/2017\", \"amount\": \"7.00\"}"}
+{"file_name": "X51005587254.jpg", "ground_truth": "{\"brand\": \"TRI SHAAS SDN BHD\", \"category\": \"General\", \"date\": \"13/03/2017\", \"amount\": \"5.00\"}"}
+{"file_name": "X51005587267.jpg", "ground_truth": "{\"brand\": \"TRI SHAAS SDN BHD\", \"category\": \"General\", \"date\": \"4/02/2017\", \"amount\": \"85.10\"}"}
+{"file_name": "X51005605284.jpg", "ground_truth": "{\"brand\": \"ADVANCO COMPANY\", \"category\": \"General\", \"date\": \"23/03/2018\", \"amount\": \"83.00\"}"}
+{"file_name": "X51005605285.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD.\", \"category\": \"Retail\", \"date\": \"22/03/2018\", \"amount\": \"5.90\"}"}
+{"file_name": "X51005605286.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"09/02/2018\", \"amount\": \"5.90\"}"}
+{"file_name": "X51005605333.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"07/01/18\", \"amount\": \"31.45\"}"}
+{"file_name": "X51005605334.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"29/03/18\", \"amount\": \"9.65\"}"}
+{"file_name": "X51005605335.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"12/01/18\", \"amount\": \"21.00\"}"}
+{"file_name": "X51005663272.jpg", "ground_truth": "{\"brand\": \"WAHIN HARDWARE SDN BHD\", \"category\": \"Retail\", \"date\": \"04/12/17\", \"amount\": \"42.40\"}"}
+{"file_name": "X51005663273.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"04/12/2017\", \"amount\": \"47.70\"}"}
+{"file_name": "X51005663276.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/12/2017\", \"amount\": \"7.42\"}"}
+{"file_name": "X51005663277.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/12/2017\", \"amount\": \"29.68\"}"}
+{"file_name": "X51005663278.jpg", "ground_truth": "{\"brand\": \"IKANO HANDEL SDN BHD\", \"category\": \"Retail\", \"date\": \"23/12/17\", \"amount\": \"73.30\"}"}
+{"file_name": "X51005663279.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"28/12/2017\", \"amount\": \"148.40\"}"}
+{"file_name": "X51005663280.jpg", "ground_truth": "{\"brand\": \"T.A.S LEISURE SDN BHD\", \"category\": \"General\", \"date\": \"30 DEC 17\", \"amount\": \"102.40\"}"}
+{"file_name": "X51005663293.jpg", "ground_truth": "{\"brand\": \"SWEET FOREST CAFE\", \"category\": \"Dining\", \"date\": \"14-02-2018\", \"amount\": \"30.30\"}"}
+{"file_name": "X51005663297.jpg", "ground_truth": "{\"brand\": \"BEYOND BROTHERS HARDWARE\", \"category\": \"Retail\", \"date\": \"14/03/2018\", \"amount\": \"599.45\"}"}
+{"file_name": "X51005663298.jpg", "ground_truth": "{\"brand\": \"ZAWIAJAYA FOOD N BEVERAGE SDN BHD\", \"category\": \"Dining\", \"date\": \"21-03-2018\", \"amount\": \"48.15\"}"}
+{"file_name": "X51005663301.jpg", "ground_truth": "{\"brand\": \"LIM SENG THO HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"03/02/2018\", \"amount\": \"7.00\"}"}
+{"file_name": "X51005663311.jpg", "ground_truth": "{\"brand\": \"LIM SENG THO HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"09/02/2018\", \"amount\": \"7.00\"}"}
+{"file_name": "X51005663317.jpg", "ground_truth": "{\"brand\": \"LIM SENG THO HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"29/12/2017\", \"amount\": \"6.00\"}"}
+{"file_name": "X51005663324.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"28/12/2017\", \"amount\": \"465.34\"}"}
+{"file_name": "X51005675095.jpg", "ground_truth": "{\"brand\": \"SUN VICTORY SDN BHD\", \"category\": \"General\", \"date\": \"14/01/2018\", \"amount\": \"RM4.00\"}"}
+{"file_name": "X51005676536.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/01/2018\", \"amount\": \"93.07\"}"}
+{"file_name": "X51005676538.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"04/01/2018\", \"amount\": \"44.73\"}"}
+{"file_name": "X51005676539.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"10/01/2018\", \"amount\": \"23.32\"}"}
+{"file_name": "X51005676540.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"11/01/2018\", \"amount\": \"116.28\"}"}
+{"file_name": "X51005676541.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"03/01/2018\", \"amount\": \"94.87\"}"}
+{"file_name": "X51005676543.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/01/2018\", \"amount\": \"13.25\"}"}
+{"file_name": "X51005676544.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/01/2018\", \"amount\": \"2.12\"}"}
+{"file_name": "X51005676545.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"13/01/2018\", \"amount\": \"6.36\"}"}
+{"file_name": "X51005676546.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"11/01/2018\", \"amount\": \"21.20\"}"}
+{"file_name": "X51005676547.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"13/01/2018\", \"amount\": \"12.72\"}"}
+{"file_name": "X51005676549.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"02/01/2018\", \"amount\": \"39.75\"}"}
+{"file_name": "X51005677328.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"12/02/2018\", \"amount\": \"5.30\"}"}
+{"file_name": "X51005677329.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"12/02/2018\", \"amount\": \"270.30\"}"}
+{"file_name": "X51005677331.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"03/02/2018\", \"amount\": \"60.95\"}"}
+{"file_name": "X51005677332.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"12/01/2018\", \"amount\": \"7.95\"}"}
+{"file_name": "X51005677334.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"31/01/2018\", \"amount\": \"82.68\"}"}
+{"file_name": "X51005677335.jpg", "ground_truth": "{\"brand\": \"SYARIKAT PERNIAGAAN GIN KEE\", \"category\": \"General\", \"date\": \"24/01/2018\", \"amount\": \"74.20\"}"}
+{"file_name": "X51005677339.jpg", "ground_truth": "{\"brand\": \"BEYOND BROTHERS HARDWARE\", \"category\": \"Retail\", \"date\": \"05/02/2018\", \"amount\": \"63.60\"}"}
+{"file_name": "X51005685355.jpg", "ground_truth": "{\"brand\": \"RESTORAN IBRAHIM MAJU SB\", \"category\": \"Dining\", \"date\": \"19/03/2018\", \"amount\": \"5.30\"}"}
+{"file_name": "X51005685357.jpg", "ground_truth": "{\"brand\": \"FARMASI MALURI S/B\", \"category\": \"Retail\", \"date\": \"02/03/18\", \"amount\": \"79.35\"}"}
+{"file_name": "X51005705722.jpg", "ground_truth": "{\"brand\": \"ASO ELECTRICAL TRADING SDN BHD\", \"category\": \"Electronics\", \"date\": \"27/09/2017\", \"amount\": \"248.05\"}"}
+{"file_name": "X51005705760.jpg", "ground_truth": "{\"brand\": \"TRI SHAAS SDN BHD\", \"category\": \"General\", \"date\": \"10/08/2017\", \"amount\": \"21.40\"}"}
+{"file_name": "X51005705804.jpg", "ground_truth": "{\"brand\": \"ASO ELECTRICAL TRADING SDN BHD\", \"category\": \"Electronics\", \"date\": \"04/12/2017\", \"amount\": \"99.00\"}"}
+{"file_name": "X51005711401.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"19-03-2018\", \"amount\": \"6.00\"}"}
+{"file_name": "X51005711403.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"19-03-2018\", \"amount\": \"9.10\"}"}
+{"file_name": "X51005711404.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"14-03-2018\", \"amount\": \"4.80\"}"}
+{"file_name": "X51005711441.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"21-03-2018\", \"amount\": \"6.70\"}"}
+{"file_name": "X51005711442.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"16-03-2018\", \"amount\": \"9.60\"}"}
+{"file_name": "X51005711445.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"12-03-2018\", \"amount\": \"7.00\"}"}
+{"file_name": "X51005711447.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"14-03-2018\", \"amount\": \"2.30\"}"}
+{"file_name": "X51005711451.jpg", "ground_truth": "{\"brand\": \"RSTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"05-03-2018\", \"amount\": \"6.00\"}"}
+{"file_name": "X51005711452.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"21/03/2018\", \"amount\": \"25.40\"}"}
+{"file_name": "X51005711453.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"10/03/2018\", \"amount\": \"8.50\"}"}
+{"file_name": "X51005711454.jpg", "ground_truth": "{\"brand\": \"PAPPARICH BMC\", \"category\": \"Dining\", \"date\": \"24 MAR 18\", \"amount\": \"72.93\"}"}
+{"file_name": "X51005711456.jpg", "ground_truth": "{\"brand\": \"MIZU MENTAI SDN. BHD.\", \"category\": \"Dining\", \"date\": \"31-03-2018\", \"amount\": \"65.55\"}"}
+{"file_name": "X51005712017.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"18/03/2018\", \"amount\": \"13.10\"}"}
+{"file_name": "X51005712021.jpg", "ground_truth": "{\"brand\": \"HAPPY SNACKS ENTERPRISE\", \"category\": \"Groceries\", \"date\": \"20/03/2018\", \"amount\": \"26.82\"}"}
+{"file_name": "X51005712038.jpg", "ground_truth": "{\"brand\": \"SWC ENTERPRISE SDN BHD\", \"category\": \"General\", \"date\": \"28/03/2018\", \"amount\": \"30.00\"}"}
+{"file_name": "X51005712039.jpg", "ground_truth": "{\"brand\": \"L TWO FLORIST & HANDICRAFT\", \"category\": \"Retail\", \"date\": \"21/03/2018\", \"amount\": \"9.00\"}"}
+{"file_name": "X51005715010.jpg", "ground_truth": "{\"brand\": \"WATSON'S PERSONAL CARE STORES SDN BHD\", \"category\": \"Retail\", \"date\": \"25032018\", \"amount\": \"RM41.45\"}"}
+{"file_name": "X51005715451.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"06/02/18\", \"amount\": \"14.65\"}"}
+{"file_name": "X51005715456.jpg", "ground_truth": "{\"brand\": \"KHE ELECTRICAL TRADING\", \"category\": \"Electronics\", \"date\": \"22/03/2018\", \"amount\": \"101.75\"}"}
+{"file_name": "X51005717526.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"02/03/2018\", \"amount\": \"28.50\"}"}
+{"file_name": "X51005719814.jpg", "ground_truth": "{\"brand\": \"TK DIVISION KITCHEN SDN BHD\", \"category\": \"Dining\", \"date\": \"17/1/2018\", \"amount\": \"RM 29.70\"}"}
+{"file_name": "X51005719856.jpg", "ground_truth": "{\"brand\": \"GOLDEN SCOOP SDN BHD\", \"category\": \"Dining\", \"date\": \"16/02/2018\", \"amount\": \"21.50\"}"}
+{"file_name": "X51005719862.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"03-02-18\", \"amount\": \"3.70\"}"}
+{"file_name": "X51005719864.jpg", "ground_truth": "{\"brand\": \"FUN N CHEER (MALURI)\", \"category\": \"General\", \"date\": \"05/01/2018\", \"amount\": \"29.80\"}"}
+{"file_name": "X51005719873.jpg", "ground_truth": "{\"brand\": \"CT281 - TEALIVE SHELL KEPONG OTTOGO ENTERPRISE\", \"category\": \"Dining\", \"date\": \"21/01/2018\", \"amount\": \"RM8.60\"}"}
+{"file_name": "X51005719874.jpg", "ground_truth": "{\"brand\": \"NADEJE PRESTIGE SDN BHD\", \"category\": \"Dining\", \"date\": \"2018/02/22\", \"amount\": \"RM39.00\"}"}
+{"file_name": "X51005719882.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"17-02-18\", \"amount\": \"213.00\"}"}
+{"file_name": "X51005719883.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"17-02-18\", \"amount\": \"108.50\"}"}
+{"file_name": "X51005719886.jpg", "ground_truth": "{\"brand\": \"SUNFISH\", \"category\": \"General\", \"date\": \"05/01/2018\", \"amount\": \"28.70\"}"}
+{"file_name": "X51005719893.jpg", "ground_truth": "{\"brand\": \"MR . DAKGALBI SOLARIS\", \"category\": \"Dining\", \"date\": \"2018-01-05\", \"amount\": \"71.00\"}"}
+{"file_name": "X51005719896.jpg", "ground_truth": "{\"brand\": \"THE STORE (MALAYSIA) SDN BHD\", \"category\": \"Retail\", \"date\": \"14-01-2018\", \"amount\": \"35.80\"}"}
+{"file_name": "X51005719899.jpg", "ground_truth": "{\"brand\": \"LITTLE CRAVINGS SDN BHD\", \"category\": \"Dining\", \"date\": \"18-03-2018\", \"amount\": \"RM53.60\"}"}
+{"file_name": "X51005719902.jpg", "ground_truth": "{\"brand\": \"KING'S CONFECTIONERY S/B\", \"category\": \"Dining\", \"date\": \"11/03/18\", \"amount\": \"25.15\"}"}
+{"file_name": "X51005719904.jpg", "ground_truth": "{\"brand\": \"YAM FRESH\", \"category\": \"Groceries\", \"date\": \"2018-03-18\", \"amount\": \"RM29.30\"}"}
+{"file_name": "X51005719906.jpg", "ground_truth": "{\"brand\": \"ZEN AND COFFEE 28 S/B\", \"category\": \"Dining\", \"date\": \"25 MAR 2018\", \"amount\": \"105.00\"}"}
+{"file_name": "X51005719912.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"04/03/18\", \"amount\": \"12.00\"}"}
+{"file_name": "X51005719914.jpg", "ground_truth": "{\"brand\": \"MR. D. I. Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"16-03-18\", \"amount\": \"53.30\"}"}
+{"file_name": "X51005719917.jpg", "ground_truth": "{\"brand\": \"DOMMAL FOOD SERVICES SDN BHD\", \"category\": \"Dining\", \"date\": \"26/03/18\", \"amount\": \"60.60\"}"}
+{"file_name": "X51005722668.jpg", "ground_truth": "{\"brand\": \"MY HAPPY PHARMACY PLT\", \"category\": \"Retail\", \"date\": \"01/02/2018\", \"amount\": \"20.50\"}"}
+{"file_name": "X51005722699.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"11/02/18\", \"amount\": \"11.80\"}"}
+{"file_name": "X51005724554.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"28/02/2018\", \"amount\": \"101.76\"}"}
+{"file_name": "X51005724621.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"06/03/2018\", \"amount\": \"127.20\"}"}
+{"file_name": "X51005724627.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"31/03/2018\", \"amount\": \"174.90\"}"}
+{"file_name": "X51005724629.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"17/03/2018\", \"amount\": \"174.90\"}"}
+{"file_name": "X51005741944.jpg", "ground_truth": "{\"brand\": \"BHPETROL SUBANG AIRPORT\", \"category\": \"Transport\", \"date\": \"18-01-2018\", \"amount\": \"41.95\"}"}
+{"file_name": "X51005742068.jpg", "ground_truth": "{\"brand\": \"BHPETROL PALEKBANG\", \"category\": \"Transport\", \"date\": \"24-03-2018\", \"amount\": \"6.00\"}"}
+{"file_name": "X51005745183.jpg", "ground_truth": "{\"brand\": \"BILLION SIX ENTERPRISE\", \"category\": \"General\", \"date\": \"22/02/2018\", \"amount\": \"63.80\"}"}
+{"file_name": "X51005745187.jpg", "ground_truth": "{\"brand\": \"SLF CASH & CARRY\", \"category\": \"Groceries\", \"date\": \"03/02/2018\", \"amount\": \"21.20\"}"}
+{"file_name": "X51005745188.jpg", "ground_truth": "{\"brand\": \"SLF CASH & CARRY\", \"category\": \"Groceries\", \"date\": \"02/02/2018\", \"amount\": \"48.00\"}"}
+{"file_name": "X51005745190.jpg", "ground_truth": "{\"brand\": \"SUPER SEVEN CASH & CARRY SDN BHD\", \"category\": \"Groceries\", \"date\": \"12-02-2018\", \"amount\": \"RM367.10\"}"}
+{"file_name": "X51005745214.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"07-02-18\", \"amount\": \"45.35\"}"}
+{"file_name": "X51005745249.jpg", "ground_truth": "{\"brand\": \"URBAN IDEA SDN BHD\", \"category\": \"General\", \"date\": \"27/02/2018\", \"amount\": \"RM22.65\"}"}
+{"file_name": "X51005745296.jpg", "ground_truth": "{\"brand\": \"KMF FOODICIOUS SDN BHD\", \"category\": \"Dining\", \"date\": \"09-04-2018\", \"amount\": \"31.00\"}"}
+{"file_name": "X51005746140.jpg", "ground_truth": "{\"brand\": \"YONG CEN ENTERPRISE\", \"category\": \"General\", \"date\": \"02/03/2018\", \"amount\": \"63.35\"}"}
+{"file_name": "X51005749895.jpg", "ground_truth": "{\"brand\": \"MR. D. I. Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"02-03-18\", \"amount\": \"71.90\"}"}
+{"file_name": "X51005749905.jpg", "ground_truth": "{\"brand\": \"ENW HARDWARE CENTRE (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"10/03/2018\", \"amount\": \"34.00\"}"}
+{"file_name": "X51005749912.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"28/03/18\", \"amount\": \"38.80\"}"}
+{"file_name": "X51005757199.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"01/03/18\", \"amount\": \"4.00\"}"}
+{"file_name": "X51005757201.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD.\", \"category\": \"Retail\", \"date\": \"28/02/2018\", \"amount\": \"88.95\"}"}
+{"file_name": "X51005757235.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"09/03/2018\", \"amount\": \"31.00\"}"}
+{"file_name": "X51005757243.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"11/03/18\", \"amount\": \"5.75\"}"}
+{"file_name": "X51005757248.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"12/03/2018\", \"amount\": \"42.50\"}"}
+{"file_name": "X51005757273.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"12-03-18\", \"amount\": \"45.00\"}"}
+{"file_name": "X51005757286.jpg", "ground_truth": "{\"brand\": \"TSH POWER HARDWARE TRADING\", \"category\": \"Retail\", \"date\": \"10/10/2017\", \"amount\": \"8.00\"}"}
+{"file_name": "X51005757290.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"17-03-18\", \"amount\": \"42.90\"}"}
+{"file_name": "X51005757294.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"18-03-18\", \"amount\": \"10.60\"}"}
+{"file_name": "X51005757304.jpg", "ground_truth": "{\"brand\": \"BAIFU (M) SDN BHD\", \"category\": \"General\", \"date\": \"20/03/2018\", \"amount\": \"35.40\"}"}
+{"file_name": "X51005757323.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"26-03-18\", \"amount\": \"28.00\"}"}
+{"file_name": "X51005757324.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"25-03-18\", \"amount\": \"50.80\"}"}
+{"file_name": "X51005757346.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"23-03-18\", \"amount\": \"26.10\"}"}
+{"file_name": "X51005757349.jpg", "ground_truth": "{\"brand\": \"GOLDEN KEY MAKER\", \"category\": \"Retail\", \"date\": \"24-MAR-2018\", \"amount\": \"21.00\"}"}
+{"file_name": "X51005757351.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"24-03-18\", \"amount\": \"14.90\"}"}
+{"file_name": "X51005757353.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"24-03-18\", \"amount\": \"12.30\"}"}
+{"file_name": "X51005763940.jpg", "ground_truth": "{\"brand\": \"ELITETRAX MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"11.02.18\", \"amount\": \"60.00\"}"}
+{"file_name": "X51005806678.jpg", "ground_truth": "{\"brand\": \"KAISON FURNISHING SDN BHD\", \"category\": \"Retail\", \"date\": \"29-01-18\", \"amount\": \"7838.80\"}"}
+{"file_name": "X51005806679.jpg", "ground_truth": "{\"brand\": \"LEE WAH FLORIST SDN BHD\", \"category\": \"Retail\", \"date\": \"02/02/2018\", \"amount\": \"374.20\"}"}
+{"file_name": "X51005806685.jpg", "ground_truth": "{\"brand\": \"ADVANCO COMPANY\", \"category\": \"General\", \"date\": \"17/01/2018\", \"amount\": \"29.00\"}"}
+{"file_name": "X51005806698.jpg", "ground_truth": "{\"brand\": \"ADVANCO COMPANY\", \"category\": \"General\", \"date\": \"28/02/2018\", \"amount\": \"10.45\"}"}
+{"file_name": "X51005806702.jpg", "ground_truth": "{\"brand\": \"SINNATHAMBY HOLDINGS SDN. BHD.\", \"category\": \"General\", \"date\": \"06/02/2018\", \"amount\": \"13.50\"}"}
+{"file_name": "X51005806703.jpg", "ground_truth": "{\"brand\": \"SINNATHAMBY HOLDINGS SDN. BHD.\", \"category\": \"General\", \"date\": \"06/02/2018\", \"amount\": \"109.70\"}"}
+{"file_name": "X51005806716.jpg", "ground_truth": "{\"brand\": \"ADVANCO COMPANY\", \"category\": \"General\", \"date\": \"17/01/2018\", \"amount\": \"7.00\"}"}
+{"file_name": "X51005889296.jpg", "ground_truth": "{\"brand\": \"IKANO HANDEL SDN BHD\", \"category\": \"Retail\", \"date\": \"25/04/18\", \"amount\": \"22.00\"}"}
+{"file_name": "X51006008057.jpg", "ground_truth": "{\"brand\": \"TRENDYMAX (M) SDN. BHD.\", \"category\": \"General\", \"date\": \"15/01/2018\", \"amount\": \"329.10\"}"}
+{"file_name": "X51006008073.jpg", "ground_truth": "{\"brand\": \"PRINT EXPERT SDN BHD\", \"category\": \"General\", \"date\": \"12/01/2018\", \"amount\": \"100.00\"}"}
+{"file_name": "X51006008074.jpg", "ground_truth": "{\"brand\": \"PRINT EXPERT SDN BHD\", \"category\": \"General\", \"date\": \"12/01/2018\", \"amount\": \"4.25\"}"}
+{"file_name": "X51006008086.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"24/01/18\", \"amount\": \"30.10\"}"}
+{"file_name": "X51006008089.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"27/02/18\", \"amount\": \"41.00\"}"}
+{"file_name": "X51006008091.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"05/03/18\", \"amount\": \"9.90\"}"}
+{"file_name": "X51006008095.jpg", "ground_truth": "{\"brand\": \"BOON SENG PAPER SDN BHD\", \"category\": \"Retail\", \"date\": \"19/03/2018\", \"amount\": \"31.80\"}"}
+{"file_name": "X51006008197.jpg", "ground_truth": "{\"brand\": \"RELAIS TOTAL OULMES\", \"category\": \"Transport\", \"date\": \"30/03/2018\", \"amount\": \"56.00\"}"}
+{"file_name": "X51006311758.jpg", "ground_truth": "{\"brand\": \"TONYMOLY VIVA CITY\", \"category\": \"Retail\", \"date\": \"29/03/2018\", \"amount\": \"100.60\"}"}
+{"file_name": "X51006311764.jpg", "ground_truth": "{\"brand\": \"TONYMOLY VIVA CITY\", \"category\": \"Retail\", \"date\": \"29/03/2018\", \"amount\": \"39.90\"}"}
+{"file_name": "X51006311767.jpg", "ground_truth": "{\"brand\": \"TONYMOLY VIVA CITY\", \"category\": \"Retail\", \"date\": \"29/03/2018\", \"amount\": \"48.95\"}"}
+{"file_name": "X51006311778.jpg", "ground_truth": "{\"brand\": \"ANZEL ADVERTISING (M) SDN BHD\", \"category\": \"General\", \"date\": \"21/03/2018\", \"amount\": \"7.40\"}"}
+{"file_name": "X51006311779.jpg", "ground_truth": "{\"brand\": \"ANZEL ADVERTISING (M) SDN BHD\", \"category\": \"General\", \"date\": \"27/03/2018\", \"amount\": \"8.50\"}"}
+{"file_name": "X51006311780.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"15-03-18\", \"amount\": \"119.70\"}"}
+{"file_name": "X51006327976.jpg", "ground_truth": "{\"brand\": \"PREMIO STATIONERY SDN BHD\", \"category\": \"Retail\", \"date\": \"08/02/2017\", \"amount\": \"25.45\"}"}
+{"file_name": "X51006327978.jpg", "ground_truth": "{\"brand\": \"Y SOON FATT S/B\", \"category\": \"General\", \"date\": \"9/2/2017\", \"amount\": \"362.50\"}"}
+{"file_name": "X51006328913.jpg", "ground_truth": "{\"brand\": \"BEMED (SP) SDN BHD\", \"category\": \"General\", \"date\": \"02/JAN/2017\", \"amount\": \"165.00\"}"}
+{"file_name": "X51006328919.jpg", "ground_truth": "{\"brand\": \"B & BEST RESTAURANT\", \"category\": \"Dining\", \"date\": \"10/02/2017\", \"amount\": \"7.40\"}"}
+{"file_name": "X51006328920.jpg", "ground_truth": "{\"brand\": \"B & BEST RESTAURANT\", \"category\": \"Dining\", \"date\": \"20/03/2017\", \"amount\": \"14.85\"}"}
+{"file_name": "X51006329395.jpg", "ground_truth": "{\"brand\": \"B & BEST RESTAURANT\", \"category\": \"Dining\", \"date\": \"10/02/2017\", \"amount\": \"7.40\"}"}
+{"file_name": "X51006329399.jpg", "ground_truth": "{\"brand\": \"OLIVE9 PHARMACY SDN BHD\", \"category\": \"Retail\", \"date\": \"31/03/2017\", \"amount\": \"12.15\"}"}
+{"file_name": "X51006329402.jpg", "ground_truth": "{\"brand\": \"SEGI CASH & CARRY SDN. BHD.\", \"category\": \"Groceries\", \"date\": \"06/04/17\", \"amount\": \"50.45\"}"}
+{"file_name": "X51006332575.jpg", "ground_truth": "{\"brand\": \"TANJONGMAS BOOKCENTRE (PJ) SDN BHD\", \"category\": \"Retail\", \"date\": \"17/03/2017\", \"amount\": \"62.00\"}"}
+{"file_name": "X51006332649.jpg", "ground_truth": "{\"brand\": \"BEMED (SP) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"25/FEB/2017\", \"amount\": \"217.00\"}"}
+{"file_name": "X51006334699.jpg", "ground_truth": "{\"brand\": \"SEGI CASH & CARRY SDN.BHD\", \"category\": \"Groceries\", \"date\": \"05 JAN 2017\", \"amount\": \"12.60\"}"}
+{"file_name": "X51006334741.jpg", "ground_truth": "{\"brand\": \"SEGI CASH & CARRY SDN.BHD\", \"category\": \"Groceries\", \"date\": \"04 JAN 2017\", \"amount\": \"20.05\"}"}
+{"file_name": "X51006334926.jpg", "ground_truth": "{\"brand\": \"GOLDEN ARCHES RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"25/12/2016\", \"amount\": \"29.30\"}"}
+{"file_name": "X51006335314.jpg", "ground_truth": "{\"brand\": \"MEI LET RESTAURANT\", \"category\": \"Dining\", \"date\": \"22/01/2017\", \"amount\": \"67.85\"}"}
+{"file_name": "X51006335547.jpg", "ground_truth": "{\"brand\": \"KING'S CONFECTIONERY S/B\", \"category\": \"Dining\", \"date\": \"02/02/17\", \"amount\": \"7.50\"}"}
+{"file_name": "X51006335552.jpg", "ground_truth": "{\"brand\": \"YONG SOON FATT S/B\", \"category\": \"General\", \"date\": \"6/2/2017\", \"amount\": \"758.70\"}"}
+{"file_name": "X51006349086.jpg", "ground_truth": "{\"brand\": \"AMPANG 210 FIRST CITY PARKING SDN BHD\", \"category\": \"Transport\", \"date\": \"16/04/2018\", \"amount\": \"RM7.00\"}"}
+{"file_name": "X51006350750.jpg", "ground_truth": "{\"brand\": \"GL HANDICRAFT & TAII ORING\", \"category\": \"Retail\", \"date\": \"27/03/2018\", \"amount\": \"130.00\"}"}
+{"file_name": "X51006350763.jpg", "ground_truth": "{\"brand\": \"GL HANDICRAFT & TAII ORING\", \"category\": \"Retail\", \"date\": \"09/04/2018\", \"amount\": \"104.00\"}"}
+{"file_name": "X51006387740.jpg", "ground_truth": "{\"brand\": \"ARTRANGE STATIONERS & PRINT SDN BHD\", \"category\": \"Retail\", \"date\": \"10/04/2017\", \"amount\": \"15.40\"}"}
+{"file_name": "X51006387812.jpg", "ground_truth": "{\"brand\": \"TIMES BOOKSTORES\", \"category\": \"Retail\", \"date\": \"23/04/2017\", \"amount\": \"12.37\"}"}
+{"file_name": "X51006387813.jpg", "ground_truth": "{\"brand\": \"TOKYO KITCHEN (CITTA MALL) TOKYO KITCHEN SDN BHD\", \"category\": \"Dining\", \"date\": \"23-04-2017\", \"amount\": \"113.80\"}"}
+{"file_name": "X51006387847.jpg", "ground_truth": "{\"brand\": \"BEMED (SP) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"15/APR/2017\", \"amount\": \"635.00\"}"}
+{"file_name": "X51006387850.jpg", "ground_truth": "{\"brand\": \"YONG CEN ENTERPRISE\", \"category\": \"General\", \"date\": \"25/04/2017\", \"amount\": \"94.00\"}"}
+{"file_name": "X51006387932.jpg", "ground_truth": "{\"brand\": \"BILLION SIX ENTERPRISE\", \"category\": \"General\", \"date\": \"04/05/2017\", \"amount\": \"12.00\"}"}
+{"file_name": "X51006387951.jpg", "ground_truth": "{\"brand\": \"AMANO MALAYSIA SDN BHD\", \"category\": \"General\", \"date\": \"30/04/2017\", \"amount\": \"RM3.00\"}"}
+{"file_name": "X51006387953.jpg", "ground_truth": "{\"brand\": \"AMANO MALAYSIA SDN BHD\", \"category\": \"General\", \"date\": \"30/04/2017\", \"amount\": \"RM1.00\"}"}
+{"file_name": "X51006387971.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"05-05-17\", \"amount\": \"42.35\"}"}
+{"file_name": "X51006388044.jpg", "ground_truth": "{\"brand\": \"PERNIAGAAN RIANG RIA\", \"category\": \"General\", \"date\": \"10-05-2017\", \"amount\": \"22.60\"}"}
+{"file_name": "X51006388064.jpg", "ground_truth": "{\"brand\": \"BEMED (SP) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"14/MAY/2017\", \"amount\": \"191.20\"}"}
+{"file_name": "X51006388065.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"21-05-17\", \"amount\": \"20.80\"}"}
+{"file_name": "X51006388066.jpg", "ground_truth": "{\"brand\": \"HERO DISTRIBUTION SDN BHD\", \"category\": \"General\", \"date\": \"17/05/17\", \"amount\": \"41.50\"}"}
+{"file_name": "X51006388069.jpg", "ground_truth": "{\"brand\": \"SEGI CASH & CARRY SDN. BHD.\", \"category\": \"Groceries\", \"date\": \"25 MAY 2017\", \"amount\": \"118.35\"}"}
+{"file_name": "X51006388082.jpg", "ground_truth": "{\"brand\": \"BROADVIEW MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"15/05/2017\", \"amount\": \"4.70\"}"}
+{"file_name": "X51006389865.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"12-11-2017\", \"amount\": \"62.80\"}"}
+{"file_name": "X51006389884.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"22-11-17\", \"amount\": \"182.00\"}"}
+{"file_name": "X51006389888.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"01-11-17\", \"amount\": \"52.10\"}"}
+{"file_name": "X51006389893.jpg", "ground_truth": "{\"brand\": \"IN-SPARKLE TRADING SDN BHD\", \"category\": \"General\", \"date\": \"21/10/2017\", \"amount\": \"250.00\"}"}
+{"file_name": "X51006389963.jpg", "ground_truth": "{\"brand\": \"ELKEN SERVICE SDN BHD\", \"category\": \"Retail\", \"date\": \"10 OCT 2017\", \"amount\": \"250.00\"}"}
+{"file_name": "X51006392122.jpg", "ground_truth": "{\"brand\": \"FIVE STAR CASH & CARRY\", \"category\": \"Groceries\", \"date\": \"19/06/17\", \"amount\": \"45.00\"}"}
+{"file_name": "X51006392273.jpg", "ground_truth": "{\"brand\": \"BROADVIEW MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"03/06/2017\", \"amount\": \"18.00\"}"}
+{"file_name": "X51006392299.jpg", "ground_truth": "{\"brand\": \"BEMED (SP) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"14/JUN/2017\", \"amount\": \"165.00\"}"}
+{"file_name": "X51006392313.jpg", "ground_truth": "{\"brand\": \"SUPER.SEVEN CASH & CARRY SDN BHD\", \"category\": \"Groceries\", \"date\": \"22-06-2017\", \"amount\": \"RM28.05\"}"}
+{"file_name": "X51006393376.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"10-05-17\", \"amount\": \"11.50\"}"}
+{"file_name": "X51006393377.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"10-05-17\", \"amount\": \"72.75\"}"}
+{"file_name": "X51006401723.jpg", "ground_truth": "{\"brand\": \"S&Y STATIONERY\", \"category\": \"Retail\", \"date\": \"05-JAN-2017\", \"amount\": \"72.00\"}"}
+{"file_name": "X51006401836.jpg", "ground_truth": "{\"brand\": \"FIVE STAR CASH & CARRY\", \"category\": \"Groceries\", \"date\": \"19/01/17\", \"amount\": \"19.80\"}"}
+{"file_name": "X51006401869.jpg", "ground_truth": "{\"brand\": \"KING'S CONFECTIONERY S/B\", \"category\": \"Dining\", \"date\": \"09/02/17\", \"amount\": \"19.20\"}"}
+{"file_name": "X51006401978.jpg", "ground_truth": "{\"brand\": \"B & BEST RESTAURANT\", \"category\": \"Dining\", \"date\": \"22/04/2017\", \"amount\": \"22.25\"}"}
+{"file_name": "X51006414392.jpg", "ground_truth": "{\"brand\": \"DI HUAN YA RESTAURANT\", \"category\": \"Dining\", \"date\": \"07/04/2018\", \"amount\": \"35.00\"}"}
+{"file_name": "X51006414394.jpg", "ground_truth": "{\"brand\": \"RESTORAN SIAM VILLAGE\", \"category\": \"Dining\", \"date\": \"27/04/2018\", \"amount\": \"275.90\"}"}
+{"file_name": "X51006414429.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"02 APR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006414431.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"03 APR 2018\", \"amount\": \"$7.10\"}"}
+{"file_name": "X51006414470.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"09 APR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006414483.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"10 APR 2018\", \"amount\": \"$7.60\"}"}
+{"file_name": "X51006414485.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"11 APR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006414519.jpg", "ground_truth": "{\"brand\": \"HASHA PETROKIOSK\", \"category\": \"Transport\", \"date\": \"06/04/2018\", \"amount\": \"50.00\"}"}
+{"file_name": "X51006414533.jpg", "ground_truth": "{\"brand\": \"BHPETROL PERMAS JAYA 2\", \"category\": \"Transport\", \"date\": \"10-04-2018\", \"amount\": \"50.00\"}"}
+{"file_name": "X51006414599.jpg", "ground_truth": "{\"brand\": \"LAVENDER CONFECTIONERY & BAKERY S/B\", \"category\": \"Retail\", \"date\": \"14/04/2018\", \"amount\": \"12.30\"}"}
+{"file_name": "X51006414631.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"18 APR 2018\", \"amount\": \"$7.00\"}"}
+{"file_name": "X51006414633.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"16 APR 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006414636.jpg", "ground_truth": "{\"brand\": \"SELASIH EKSLUSIF SDN BHD\", \"category\": \"General\", \"date\": \"6/4/2018\", \"amount\": \"270.00\"}"}
+{"file_name": "X51006414638.jpg", "ground_truth": "{\"brand\": \"PASAR MINI JIN SENG\", \"category\": \"Groceries\", \"date\": \"15/04/18\", \"amount\": \"44.90\"}"}
+{"file_name": "X51006414671.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"19 APR 2018\", \"amount\": \"$9.90\"}"}
+{"file_name": "X51006414674.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA\", \"category\": \"Dining\", \"date\": \"17/04/18\", \"amount\": \"25.60\"}"}
+{"file_name": "X51006414675.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA\", \"category\": \"Dining\", \"date\": \"11/04/18\", \"amount\": \"21.60\"}"}
+{"file_name": "X51006414677.jpg", "ground_truth": "{\"brand\": \"THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.\", \"category\": \"Dining\", \"date\": \"08/04/2018\", \"amount\": \"12.00\"}"}
+{"file_name": "X51006414679.jpg", "ground_truth": "{\"brand\": \"DE MAXIMUM THAI EXPRESS SDN BHD\", \"category\": \"Dining\", \"date\": \"14/04/2018\", \"amount\": \"21.80\"}"}
+{"file_name": "X51006414680.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"18/04/2018\", \"amount\": \"1.75\"}"}
+{"file_name": "X51006414700.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"22/04/2018\", \"amount\": \"10.20\"}"}
+{"file_name": "X51006414703.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"22/04/2018\", \"amount\": \"98.35\"}"}
+{"file_name": "X51006414711.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA\", \"category\": \"Dining\", \"date\": \"28/04/18\", \"amount\": \"30.90\"}"}
+{"file_name": "X51006414712.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA\", \"category\": \"Dining\", \"date\": \"28/04/18\", \"amount\": \"39.60\"}"}
+{"file_name": "X51006414713.jpg", "ground_truth": "{\"brand\": \"YHM AEON TEBRAU CITY\", \"category\": \"Retail\", \"date\": \"17/04/2018\", \"amount\": \"81.80\"}"}
+{"file_name": "X51006414714.jpg", "ground_truth": "{\"brand\": \"THE TOAST F&B SDN BHD\", \"category\": \"Dining\", \"date\": \"08/04/2018\", \"amount\": \"18.90\"}"}
+{"file_name": "X51006414718.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"20/04/2018\", \"amount\": \"46.55\"}"}
+{"file_name": "X51006414719.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"12/04/2018\", \"amount\": \"4.40\"}"}
+{"file_name": "X51006414720.jpg", "ground_truth": "{\"brand\": \"PASARAYA JALAL SDN BHD\", \"category\": \"Groceries\", \"date\": \"20/04/2018\", \"amount\": \"6.40\"}"}
+{"file_name": "X51006414721.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA\", \"category\": \"Dining\", \"date\": \"27/04/18\", \"amount\": \"7.20\"}"}
+{"file_name": "X51006414733.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"01/04/2018\", \"amount\": \"122.80\"}"}
+{"file_name": "X51006441473.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"19/05/18\", \"amount\": \"38.37\"}"}
+{"file_name": "X51006441474.jpg", "ground_truth": "{\"brand\": \"TF VALUE-MART SDN BHD\", \"category\": \"Groceries\", \"date\": \"19/05/18\", \"amount\": \"52.80\"}"}
+{"file_name": "X51006466055.jpg", "ground_truth": "{\"brand\": \"CHECKERS HYPERMARKET SDN BHD (JALAN KLANG LAMA)\", \"category\": \"Groceries\", \"date\": \"20180428\", \"amount\": \"20.00\"}"}
+{"file_name": "X51006466056.jpg", "ground_truth": "{\"brand\": \"BERRY'S CAKE HOUSE\", \"category\": \"Dining\", \"date\": \"18/04/2018\", \"amount\": \"11.25\"}"}
+{"file_name": "X51006466060.jpg", "ground_truth": "{\"brand\": \"WESTERN EASTERN STATIONERY SDN. BHD\", \"category\": \"Retail\", \"date\": \"30-04-2018\", \"amount\": \"1.38\"}"}
+{"file_name": "X51006466062.jpg", "ground_truth": "{\"brand\": \"WESTERN EASTERN ST TIONERY SDN. BHD\", \"category\": \"Retail\", \"date\": \"16-04-2018\", \"amount\": \"RM5.00\"}"}
+{"file_name": "X51006466065.jpg", "ground_truth": "{\"brand\": \"GHEE HIANG GH DISTRIBUTOR & MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"13/04/2018\", \"amount\": \"25.00\"}"}
+{"file_name": "X51006466066.jpg", "ground_truth": "{\"brand\": \"MENTAI INITIAL SDN BHD\", \"category\": \"Dining\", \"date\": \"21-04-2018\", \"amount\": \"41.50\"}"}
+{"file_name": "X51006466778.jpg", "ground_truth": "{\"brand\": \"THE ROTI MAN BAKERY\", \"category\": \"Dining\", \"date\": \"04-05-2018\", \"amount\": \"RM20.40\"}"}
+{"file_name": "X51006502529.jpg", "ground_truth": "{\"brand\": \"HAXINCONE RESOURCES SDN BHD\", \"category\": \"General\", \"date\": \"20/04/2018\", \"amount\": \"3.70\"}"}
+{"file_name": "X51006502531.jpg", "ground_truth": "{\"brand\": \"FAMILYMART\", \"category\": \"Groceries\", \"date\": \"16/04/2018\", \"amount\": \"18.80\"}"}
+{"file_name": "X51006502533.jpg", "ground_truth": "{\"brand\": \"R&C VENTURE SDN BHD\", \"category\": \"General\", \"date\": \"19-04-2018\", \"amount\": \"9.50\"}"}
+{"file_name": "X51006554833.jpg", "ground_truth": "{\"brand\": \"SUBANG HEALTHCARE SDN BHD\", \"category\": \"General\", \"date\": \"29/10/2017\", \"amount\": \"28.90\"}"}
+{"file_name": "X51006555072.jpg", "ground_truth": "{\"brand\": \"DIGI TELECOMMUNICATIONS SDN BHD\", \"category\": \"General\", \"date\": \"13/10/2017\", \"amount\": \"234.40\"}"}
+{"file_name": "X51006555125.jpg", "ground_truth": "{\"brand\": \"KHIAM AIK CHAN SDN BHD\", \"category\": \"General\", \"date\": \"25/09/2017\", \"amount\": \"28.40\"}"}
+{"file_name": "X51006555570.jpg", "ground_truth": "{\"brand\": \"SUBANG HEALTHCARE SDN BHD\", \"category\": \"General\", \"date\": \"11/08/2017\", \"amount\": \"78.10\"}"}
+{"file_name": "X51006555780.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KI ) SDN BHD\", \"category\": \"Groceries\", \"date\": \"21/07/2017\", \"amount\": \"33.05\"}"}
+{"file_name": "X51006555784.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"30/08/2017\", \"amount\": \"53.14\"}"}
+{"file_name": "X51006555806.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"30/07/2017\", \"amount\": \"20.21\"}"}
+{"file_name": "X51006555814.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"27/07/2017\", \"amount\": \"94.19\"}"}
+{"file_name": "X51006555817.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"25/07/2017\", \"amount\": \"24.83\"}"}
+{"file_name": "X51006555818.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"24/07/2017\", \"amount\": \"27.10\"}"}
+{"file_name": "X51006556591.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"25/08/2017\", \"amount\": \"36.36\"}"}
+{"file_name": "X51006556596.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"28/08/2017\", \"amount\": \"41.44\"}"}
+{"file_name": "X51006556604.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"24/08/2017\", \"amount\": \"39.78\"}"}
+{"file_name": "X51006556646.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"21/08/2017\", \"amount\": \"73.55\"}"}
+{"file_name": "X51006556650.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"19/08/2017\", \"amount\": \"50.60\"}"}
+{"file_name": "X51006556656.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"17/08/2017\", \"amount\": \"7.97\"}"}
+{"file_name": "X51006556726.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"06/08/2017\", \"amount\": \"68.41\"}"}
+{"file_name": "X51006556730.jpg", "ground_truth": "{\"brand\": \"MAKASSAR FRESH MARKET S/B\", \"category\": \"Groceries\", \"date\": \"05-AUG-2017\", \"amount\": \"RM40.00\"}"}
+{"file_name": "X51006556732.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"05/08/2017\", \"amount\": \"19.31\"}"}
+{"file_name": "X51006556738.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"03/08/2017\", \"amount\": \"51.88\"}"}
+{"file_name": "X51006556815.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"05/09/2017\", \"amount\": \"54.15\"}"}
+{"file_name": "X51006556818.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"03/09/2017\", \"amount\": \"29.59\"}"}
+{"file_name": "X51006556823.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"30/09/2017\", \"amount\": \"26.80\"}"}
+{"file_name": "X51006556824.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"29/09/2017\", \"amount\": \"-1.73\"}"}
+{"file_name": "X51006556825.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"28/09/2017\", \"amount\": \"48.04\"}"}
+{"file_name": "X51006556828.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"25/09/2017\", \"amount\": \"36.55\"}"}
+{"file_name": "X51006556830.jpg", "ground_truth": "{\"brand\": \"PINGHWAI TRADING SDN BHD\", \"category\": \"General\", \"date\": \"23/09/2017\", \"amount\": \"1,007.50\"}"}
+{"file_name": "X51006556831.jpg", "ground_truth": "{\"brand\": \"PINGHWAI TRADING SDN BHD\", \"category\": \"General\", \"date\": \"30/09/2017\", \"amount\": \"616.60\"}"}
+{"file_name": "X51006556838.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"19/09/2017\", \"amount\": \"22.58\"}"}
+{"file_name": "X51006556839.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"18/09/2017\", \"amount\": \"5.90\"}"}
+{"file_name": "X51006556840.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"17/09/2017\", \"amount\": \"40.18\"}"}
+{"file_name": "X51006556841.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"16/09/2017\", \"amount\": \"3.21\"}"}
+{"file_name": "X51006556852.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"11/09/2017\", \"amount\": \"65.50\"}"}
+{"file_name": "X51006556861.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"08/09/2017\", \"amount\": \"23.20\"}"}
+{"file_name": "X51006557117.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"30/10/2017\", \"amount\": \"62.60\"}"}
+{"file_name": "X51006557119.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"20/10/2017\", \"amount\": \"14.79\"}"}
+{"file_name": "X51006557161.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"24/10/2017\", \"amount\": \"41.87\"}"}
+{"file_name": "X51006557164.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"18/10/2017\", \"amount\": \"31.05\"}"}
+{"file_name": "X51006557168.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"23/10/2017\", \"amount\": \"39.87\"}"}
+{"file_name": "X51006557170.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"29/10/2017\", \"amount\": \"58.86\"}"}
+{"file_name": "X51006557178.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"25/10/2017\", \"amount\": \"35.01\"}"}
+{"file_name": "X51006557179.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"22/10/2017\", \"amount\": \"34.21\"}"}
+{"file_name": "X51006557184.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"19/10/2017\", \"amount\": \"68.63\"}"}
+{"file_name": "X51006557185.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"17/10/2017\", \"amount\": \"110.46\"}"}
+{"file_name": "X51006557188.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"15/10/2017\", \"amount\": \"23.56\"}"}
+{"file_name": "X51006557193.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"14/10/2017\", \"amount\": \"33.80\"}"}
+{"file_name": "X51006557195.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"12/10/2017\", \"amount\": \"59.54\"}"}
+{"file_name": "X51006557198.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"10/10/2017\", \"amount\": \"27.20\"}"}
+{"file_name": "X51006557199.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"09/10/2017\", \"amount\": \"60.24\"}"}
+{"file_name": "X51006557202.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"08/10/2017\", \"amount\": \"46.06\"}"}
+{"file_name": "X51006557210.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"05/10/2017\", \"amount\": \"51.42\"}"}
+{"file_name": "X51006557213.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"01/10/2017\", \"amount\": \"31.32\"}"}
+{"file_name": "X51006557508.jpg", "ground_truth": "{\"brand\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"category\": \"Groceries\", \"date\": \"26/10/2017\", \"amount\": \"54.19\"}"}
+{"file_name": "X51006619341.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"06-04-16\", \"amount\": \"RM 8.60\"}"}
+{"file_name": "X51006619342.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"17-04-16\", \"amount\": \"RM 3.30\"}"}
+{"file_name": "X51006619343.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"17-04-16\", \"amount\": \"RM 22.90\"}"}
+{"file_name": "X51006619496.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"14-12-16\", \"amount\": \"61.65\"}"}
+{"file_name": "X51006619545.jpg", "ground_truth": "{\"brand\": \"COSWAY (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"(06/12/2016)\", \"amount\": \"RM111.90\"}"}
+{"file_name": "X51006619550.jpg", "ground_truth": "{\"brand\": \"HAI-O RAYA BHD\", \"category\": \"General\", \"date\": \"15/12/2016\", \"amount\": \"47.70\"}"}
+{"file_name": "X51006619561.jpg", "ground_truth": "{\"brand\": \"GREEN LANE PHARMACY SDN BHD\", \"category\": \"Retail\", \"date\": \"12/13/2016\", \"amount\": \"180.10\"}"}
+{"file_name": "X51006619563.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"21-11-16\", \"amount\": \"31.80\"}"}
+{"file_name": "X51006619566.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"05-12-16\", \"amount\": \"15.90\"}"}
+{"file_name": "X51006619694.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"11/02/16\", \"amount\": \"2.56\"}"}
+{"file_name": "X51006619696.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"03-02-16\", \"amount\": \"82.80\"}"}
+{"file_name": "X51006619697.jpg", "ground_truth": "{\"brand\": \"CHEF LEE SDN BHD\", \"category\": \"Dining\", \"date\": \"13-02-2016\", \"amount\": \"RM96.20\"}"}
+{"file_name": "X51006619698.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"25-01-16\", \"amount\": \"RM 21.00\"}"}
+{"file_name": "X51006619709.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"24-01-16\", \"amount\": \"RM 57.40\"}"}
+{"file_name": "X51006619758.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"24-01-16\", \"amount\": \"13.60\"}"}
+{"file_name": "X51006619765.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"08-01-16\", \"amount\": \"RM 64.70\"}"}
+{"file_name": "X51006619772.jpg", "ground_truth": "{\"brand\": \"GOLDEN ARCHES RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"24/07/2016\", \"amount\": \"28.20\"}"}
+{"file_name": "X51006619777.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"30-06-16\", \"amount\": \"27.30\"}"}
+{"file_name": "X51006619780.jpg", "ground_truth": "{\"brand\": \"YAM FRESH\", \"category\": \"Groceries\", \"date\": \"2016-07-31\", \"amount\": \"RM8.35\"}"}
+{"file_name": "X51006619783.jpg", "ground_truth": "{\"brand\": \"FOUR QUARTERS SDN BHD\", \"category\": \"General\", \"date\": \"06/07/16\", \"amount\": \"43.90\"}"}
+{"file_name": "X51006619785.jpg", "ground_truth": "{\"brand\": \"ECOSWAY.COM SDN BHD\", \"category\": \"Retail\", \"date\": \"29/07/2016\", \"amount\": \"RM78.30\"}"}
+{"file_name": "X51006619854.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"04-06-16\", \"amount\": \"2.10\"}"}
+{"file_name": "X51006619862.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"07-06-16\", \"amount\": \"RM 13.30\"}"}
+{"file_name": "X51006620161.jpg", "ground_truth": "{\"brand\": \"SIN THYE & COMPANY\", \"category\": \"General\", \"date\": \"28/02/2016\", \"amount\": \"110.00\"}"}
+{"file_name": "X51006620176.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"22-04-16\", \"amount\": \"RM 12.50\"}"}
+{"file_name": "X51006620181.jpg", "ground_truth": "{\"brand\": \"NADEJE PLATINUM SDN BHD\", \"category\": \"Dining\", \"date\": \"2016/05/01\", \"amount\": \"RM51.30\"}"}
+{"file_name": "X51006620186.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"22-04-16\", \"amount\": \"RM 68.10\"}"}
+{"file_name": "X51006620187.jpg", "ground_truth": "{\"brand\": \"ANEKA INTERTRADE MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"19/05/16\", \"amount\": \"6.85\"}"}
+{"file_name": "X51006620189.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"11-05-16\", \"amount\": \"177.20\"}"}
+{"file_name": "X51006620190.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"22-05-16\", \"amount\": \"RM 21.50\"}"}
+{"file_name": "X51006620191.jpg", "ground_truth": "{\"brand\": \"BEST DENKI MALAYSIA\", \"category\": \"Electronics\", \"date\": \"01/05/16\", \"amount\": \"89.00\"}"}
+{"file_name": "X51006620414.jpg", "ground_truth": "{\"brand\": \"EDEN IMPRESSION SDN BHD\", \"category\": \"General\", \"date\": \"20/10/2016\", \"amount\": \"RM9.75\"}"}
+{"file_name": "X51006647932.jpg", "ground_truth": "{\"brand\": \"UROKO JAPANESE CUISINE SDN BHD\", \"category\": \"Dining\", \"date\": \"14/05/2018\", \"amount\": \"87.10\"}"}
+{"file_name": "X51006679216.jpg", "ground_truth": "{\"brand\": \"FTOF NOODLE HOUSE\", \"category\": \"Dining\", \"date\": \"21/05/2018\", \"amount\": \"RM31.60\"}"}
+{"file_name": "X51006679222.jpg", "ground_truth": "{\"brand\": \"EIGHT OUNCE COFFEE CO.\", \"category\": \"Dining\", \"date\": \"24-05-2018\", \"amount\": \"39.90\"}"}
+{"file_name": "X51006713996.jpg", "ground_truth": "{\"brand\": \"SKCA HARDWARE & TIMBER SDN. BHD.\", \"category\": \"Retail\", \"date\": \"01-NOV-2017\", \"amount\": \"142.00\"}"}
+{"file_name": "X51006714065.jpg", "ground_truth": "{\"brand\": \"ANN GIAP TRADING SDN BHD\", \"category\": \"General\", \"date\": \"30-09-2017\", \"amount\": \"66.00\"}"}
+{"file_name": "X51006733494.jpg", "ground_truth": "{\"brand\": \"KEDAI UHAT DAN RUNCIT CHONG HWA\", \"category\": \"Groceries\", \"date\": \"OCT 3, 2016\", \"amount\": \"RM33.90\"}"}
+{"file_name": "X51006828217.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"14-08-17\", \"amount\": \"14.40\"}"}
+{"file_name": "X51006856981.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"07/07/17\", \"amount\": \"13.78\"}"}
+{"file_name": "X51006857071.jpg", "ground_truth": "{\"brand\": \"K STATIONERY & OFFICE SUPPLIES\", \"category\": \"Retail\", \"date\": \"15/07/2017\", \"amount\": \"148.00\"}"}
+{"file_name": "X51006857265.jpg", "ground_truth": "{\"brand\": \"MPH BOOKSTORES SDN BHD\", \"category\": \"Retail\", \"date\": \"11/12/2017\", \"amount\": \"31.45\"}"}
+{"file_name": "X51006857660.jpg", "ground_truth": "{\"brand\": \"BECON STATIONER BECON ENTERPRISE SDN BHD\", \"category\": \"Retail\", \"date\": \"13-09-2017\", \"amount\": \"247.55\"}"}
+{"file_name": "X51006867435.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"18/05/18\", \"amount\": \"2.28\"}"}
+{"file_name": "X51006867436.jpg", "ground_truth": "{\"brand\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\", \"category\": \"Retail\", \"date\": \"24/05/18\", \"amount\": \"4.50\"}"}
+{"file_name": "X51006882603.jpg", "ground_truth": "{\"brand\": \"ECO-SHOP MARKETING SDN BHD\", \"category\": \"Retail\", \"date\": \"26/02/2018\", \"amount\": \"16.30\"}"}
+{"file_name": "X51006912960.jpg", "ground_truth": "{\"brand\": \"DE MAXIMUM THAI EXPRESS SDN BHD\", \"category\": \"Dining\", \"date\": \"17/05/2018\", \"amount\": \"30.70\"}"}
+{"file_name": "X51006912972.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"15 MAY 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006912974.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"30 MAY 2018\", \"amount\": \"$8.70\"}"}
+{"file_name": "X51006913007.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"27/05/2018\", \"amount\": \"99.90\"}"}
+{"file_name": "X51006913019.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"11/05/2018\", \"amount\": \"476.80\"}"}
+{"file_name": "X51006913023.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"16 MAY 2018\", \"amount\": \"$8.20\"}"}
+{"file_name": "X51006913024.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"14 MAY 2018\", \"amount\": \"$8.90\"}"}
+{"file_name": "X51006913028.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"07 MAY 2018\", \"amount\": \"$8.70\"}"}
+{"file_name": "X51006913030.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"10 MAY 2018\", \"amount\": \"$10.30\"}"}
+{"file_name": "X51006913031.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"09 MAY 2018\", \"amount\": \"$6.60\"}"}
+{"file_name": "X51006913051.jpg", "ground_truth": "{\"brand\": \"THE TOAST F&B SDN BHD\", \"category\": \"Dining\", \"date\": \"11/05/2018\", \"amount\": \"31.00\"}"}
+{"file_name": "X51006913054.jpg", "ground_truth": "{\"brand\": \"DE LUXE CIRCLE FRESH MART SDN BHD\", \"category\": \"Groceries\", \"date\": \"12/05/18\", \"amount\": \"12.00\"}"}
+{"file_name": "X51006913055.jpg", "ground_truth": "{\"brand\": \"VERBENA CONFECTIONERY SDN BHD\", \"category\": \"Groceries\", \"date\": \"12/05/2018\", \"amount\": \"75.70\"}"}
+{"file_name": "X51006913059.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"22 MAY 2018\", \"amount\": \"$11.40\"}"}
+{"file_name": "X51006913068.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"25/05/2018\", \"amount\": \"11.10\"}"}
+{"file_name": "X51006913070.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"24 MAY 2018\", \"amount\": \"$8.40\"}"}
+{"file_name": "X51006913073.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"27 MAY 2018\", \"amount\": \"$10.70\"}"}
+{"file_name": "X51006913074.jpg", "ground_truth": "{\"brand\": \"DOMINO'S PIZZA TAMAN UNIVERSITI\", \"category\": \"Dining\", \"date\": \"08/05/18\", \"amount\": \"6.70\"}"}
+{"file_name": "X51007103578.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"06-04-18\", \"amount\": \"RM 31.20\"}"}
+{"file_name": "X51007103599.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"11-04-18\", \"amount\": \"RM 9.00\"}"}
+{"file_name": "X51007103639.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"19-04-18\", \"amount\": \"RM 15.40\"}"}
+{"file_name": "X51007103641.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"19-04-18\", \"amount\": \"RM 34.80\"}"}
+{"file_name": "X51007103643.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"19-04-18\", \"amount\": \"RM 34.80\"}"}
+{"file_name": "X51007103675.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"25-04-18\", \"amount\": \"48.10\"}"}
+{"file_name": "X51007103681.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"26-04-18\", \"amount\": \"2.10\"}"}
+{"file_name": "X51007103688.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"27-04-18\", \"amount\": \"38.00\"}"}
+{"file_name": "X51007103691.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"28/04/2018\", \"amount\": \"26.10\"}"}
+{"file_name": "X51007103692.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"28-04-18\", \"amount\": \"53.20\"}"}
+{"file_name": "X51007103702.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"30-04-18\", \"amount\": \"5.00\"}"}
+{"file_name": "X51007135037.jpg", "ground_truth": "{\"brand\": \"S&Y STATIONERY\", \"category\": \"Retail\", \"date\": \"05-JAN-2017\", \"amount\": \"72.00\"}"}
+{"file_name": "X51007135247.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"07-02-17\", \"amount\": \"37.45\"}"}
+{"file_name": "X51007225398.jpg", "ground_truth": "{\"brand\": \"ENW HARDWARE CENTRE (M) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"13/04/2018\", \"amount\": \"27.00\"}"}
+{"file_name": "X51007225399.jpg", "ground_truth": "{\"brand\": \"ENW HARDWARE CENTRE (M) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"14/04/2018\", \"amount\": \"156.00\"}"}
+{"file_name": "X51007225417.jpg", "ground_truth": "{\"brand\": \"ENW HARDWARE CENTRE (M) SDN. BHD.\", \"category\": \"Retail\", \"date\": \"09/04/2018\", \"amount\": \"51.00\"}"}
+{"file_name": "X51007225442.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"27-04-18\", \"amount\": \"23.00\"}"}
+{"file_name": "X51007228448.jpg", "ground_truth": "{\"brand\": \"KFA SUPPLY\", \"category\": \"General\", \"date\": \"27/05/2018\", \"amount\": \"11.60\"}"}
+{"file_name": "X51007231336.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"13 MAY 2018\", \"amount\": \"$8.70\"}"}
+{"file_name": "X51007231338.jpg", "ground_truth": "{\"brand\": \"DIMILIKI OLEH T PLUS F&B SDN. BHD.\", \"category\": \"Dining\", \"date\": \"11/05/2018\", \"amount\": \"9.45\"}"}
+{"file_name": "X51007231344.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"05 MAY 2018\", \"amount\": \"$11.20\"}"}
+{"file_name": "X51007231361.jpg", "ground_truth": "{\"brand\": \"DIMILIKI OLEH : DOVE HOLDINGS SDN BHD\", \"category\": \"General\", \"date\": \"26/05/2018\", \"amount\": \"164.80\"}"}
+{"file_name": "X51007231365.jpg", "ground_truth": "{\"brand\": \"OLD TOWN KOPITIAM SDN BHD\", \"category\": \"Dining\", \"date\": \"05 MAY 18\", \"amount\": \"28.50\"}"}
+{"file_name": "X51007231370.jpg", "ground_truth": "{\"brand\": \"THE MARCO POLO KITCH BUKIT INDAH\", \"category\": \"Dining\", \"date\": \"06/05/2018\", \"amount\": \"15.15\"}"}
+{"file_name": "X51007231374.jpg", "ground_truth": "{\"brand\": \"WARAKUYA PERMAS CITY SDN BHD\", \"category\": \"Dining\", \"date\": \"07/05/2018\", \"amount\": \"24.40\"}"}
+{"file_name": "X51007262315.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"21/05/2018\", \"amount\": \"70.30\"}"}
+{"file_name": "X51007262328.jpg", "ground_truth": "{\"brand\": \"FARMASI LIGAMAS\", \"category\": \"Retail\", \"date\": \"20/05/2018\", \"amount\": \"25.00\"}"}
+{"file_name": "X51007262330.jpg", "ground_truth": "{\"brand\": \"SWC ENTERPRISE SDN BHD\", \"category\": \"General\", \"date\": \"23/03/2018\", \"amount\": \"41.20\"}"}
+{"file_name": "X51007339094.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"22/05/2017\", \"amount\": \"35.00\"}"}
+{"file_name": "X51007339095.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"05/09/2017\", \"amount\": \"14.90\"}"}
+{"file_name": "X51007339097.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"10/04/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339098.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"18/04/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339100.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"18/04/2017\", \"amount\": \"3.00\"}"}
+{"file_name": "X51007339106.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"07/05/2017\", \"amount\": \"43.7\"}"}
+{"file_name": "X51007339107.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"04/04/2017\", \"amount\": \"14.90\"}"}
+{"file_name": "X51007339110.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"05/07/2017\", \"amount\": \"2.00\"}"}
+{"file_name": "X51007339111.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"12/08/2017\", \"amount\": \"3.00\"}"}
+{"file_name": "X51007339112.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"24/05/2017\", \"amount\": \"5.80\"}"}
+{"file_name": "X51007339113.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"24/07/2017\", \"amount\": \"5.80\"}"}
+{"file_name": "X51007339114.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"14/12/2017\", \"amount\": \"36.00\"}"}
+{"file_name": "X51007339115.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"31/10/2017\", \"amount\": \"3.90\"}"}
+{"file_name": "X51007339117.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"01/11/2017\", \"amount\": \"33.50\"}"}
+{"file_name": "X51007339118.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"07/11/2017\", \"amount\": \"2.00\"}"}
+{"file_name": "X51007339120.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"18/11/2017\", \"amount\": \"9.30\"}"}
+{"file_name": "X51007339126.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"20/09/2017\", \"amount\": \"12.00\"}"}
+{"file_name": "X51007339130.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"20/10/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339131.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"18/09/2017\", \"amount\": \"12.40\"}"}
+{"file_name": "X51007339132.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"06/09/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339133.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"27/10/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339135.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"06/11/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339136.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"28/12/2017\", \"amount\": \"46.90\"}"}
+{"file_name": "X51007339139.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"21/03/2017\", \"amount\": \"10.00\"}"}
+{"file_name": "X51007339146.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"28/03/2017\", \"amount\": \"16.50\"}"}
+{"file_name": "X51007339150.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"18/07/2017\", \"amount\": \"35.00\"}"}
+{"file_name": "X51007339151.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"15/07/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339152.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"06/07/2017\", \"amount\": \"4.50\"}"}
+{"file_name": "X51007339156.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"08/07/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339157.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"19/07/2017\", \"amount\": \"5.00\"}"}
+{"file_name": "X51007339158.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"19/07/2017\", \"amount\": \"5.00\"}"}
+{"file_name": "X51007339162.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"02/12/2017\", \"amount\": \"8.70\"}"}
+{"file_name": "X51007339164.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"26/11/2017\", \"amount\": \"9.30\"}"}
+{"file_name": "X51007339165.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"29/11/2017\", \"amount\": \"33.60\"}"}
+{"file_name": "X51007339166.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"04/12/2017\", \"amount\": \"3.90\"}"}
+{"file_name": "X51007339167.jpg", "ground_truth": "{\"brand\": \"SANYU STATIONERY SHOP\", \"category\": \"Retail\", \"date\": \"11/12/2017\", \"amount\": \"7.00\"}"}
+{"file_name": "X51007339639.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"13/07/2017\", \"amount\": \"4.00\"}"}
+{"file_name": "X51007339642.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"28/09/2017\", \"amount\": \"14.00\"}"}
+{"file_name": "X51007339643.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"30/03/2017\", \"amount\": \"6.00\"}"}
+{"file_name": "X51007339647.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"15/11/2017\", \"amount\": \"16.00\"}"}
+{"file_name": "X51007339648.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"12/09/2017\", \"amount\": \"30.00\"}"}
+{"file_name": "X51007339650.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"13/12/2017\", \"amount\": \"24.00\"}"}
+{"file_name": "X51007339651.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"29/12/2017\", \"amount\": \"7.00\"}"}
+{"file_name": "X51007339653.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"15/09/2017\", \"amount\": \"24.00\"}"}
+{"file_name": "X51007339656.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"10/05/2017\", \"amount\": \"16.00\"}"}
+{"file_name": "X51007339657.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"25/12/2017\", \"amount\": \"2.50\"}"}
+{"file_name": "X51007339658.jpg", "ground_truth": "{\"brand\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"category\": \"Retail\", \"date\": \"04/09/2017\", \"amount\": \"28.00\"}"}
+{"file_name": "X51007391372.jpg", "ground_truth": "{\"brand\": \"FY EAGLE ENTERPRISE\", \"category\": \"General\", \"date\": \"24/05/2018\", \"amount\": \"52.00\"}"}
+{"file_name": "X51007419197.jpg", "ground_truth": "{\"brand\": \"MYNEWS RETAIL SB\", \"category\": \"Retail\", \"date\": \"28/06/2018\", \"amount\": \"6.00\"}"}
+{"file_name": "X51007579726.jpg", "ground_truth": "{\"brand\": \"RAPID RAIL SDN BHD\", \"category\": \"Transport\", \"date\": \"18/06/2018\", \"amount\": \"RM 30.00\"}"}
+{"file_name": "X51007843145.jpg", "ground_truth": "{\"brand\": \"ESJAY FUEL ENTERPRISE\", \"category\": \"Transport\", \"date\": \"30-06-2018\", \"amount\": \"50.00\"}"}
+{"file_name": "X51007846269.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"04 JUN 2018\", \"amount\": \"RM7.70\"}"}
+{"file_name": "X51007846270.jpg", "ground_truth": "{\"brand\": \"MOONLIGHT CAKE HOUSE SDN BHD\", \"category\": \"Retail\", \"date\": \"04/06/2018\", \"amount\": \"RM21.85\"}"}
+{"file_name": "X51007846286.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"09 JUN 2018\", \"amount\": \"RM7.70\"}"}
+{"file_name": "X51007846301.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"10 JUN 2018\", \"amount\": \"RM8.50\"}"}
+{"file_name": "X51007846302.jpg", "ground_truth": "{\"brand\": \"MOONLIGHT CAKE HOUSE SDN BHD\", \"category\": \"Retail\", \"date\": \"09/06/2018\", \"amount\": \"RM15.40\"}"}
+{"file_name": "X51007846305.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"10/06/2018\", \"amount\": \"127.35\"}"}
+{"file_name": "X51007846307.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"12 JUN 2018\", \"amount\": \"RM7.70\"}"}
+{"file_name": "X51007846309.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"11 JUN 2018\", \"amount\": \"RM6.00\"}"}
+{"file_name": "X51007846325.jpg", "ground_truth": "{\"brand\": \"DE LUXE CIRCLE FRESH MART SDN BHD\", \"category\": \"Groceries\", \"date\": \"02/06/18\", \"amount\": \"25.85\"}"}
+{"file_name": "X51007846326.jpg", "ground_truth": "{\"brand\": \"LEMON TREE RESTAURANT JTJ FOODS SDN BHD\", \"category\": \"Dining\", \"date\": \"6/1/2018\", \"amount\": \"10.30\"}"}
+{"file_name": "X51007846350.jpg", "ground_truth": "{\"brand\": \"PASARAYA CINWA SDN BHD\", \"category\": \"Groceries\", \"date\": \"15/06/2018\", \"amount\": \"14.20\"}"}
+{"file_name": "X51007846353.jpg", "ground_truth": "{\"brand\": \"THE TOAST F&B SDN BHD\", \"category\": \"Dining\", \"date\": \"16/06/2018\", \"amount\": \"28.15\"}"}
+{"file_name": "X51007846357.jpg", "ground_truth": "{\"brand\": \"KEDAI RUNCIT ZBH\", \"category\": \"Groceries\", \"date\": \"01/06/2018\", \"amount\": \"RM43.40\"}"}
+{"file_name": "X51007846366.jpg", "ground_truth": "{\"brand\": \"AEON CO. (M) BHD\", \"category\": \"Retail\", \"date\": \"12/06/2018\", \"amount\": \"38.60\"}"}
+{"file_name": "X51007846368.jpg", "ground_truth": "{\"brand\": \"GRANDMA HOMES RESTAURANT\", \"category\": \"Dining\", \"date\": \"13/06/2018\", \"amount\": \"473.30\"}"}
+{"file_name": "X51007846370.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"16 JUN 2018\", \"amount\": \"RM7.70\"}"}
+{"file_name": "X51007846388.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"18 JUN 2018\", \"amount\": \"RM8.20\"}"}
+{"file_name": "X51007846391.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"20 JUN 2018\", \"amount\": \"RM8.20\"}"}
+{"file_name": "X51007846393.jpg", "ground_truth": "{\"brand\": \"MOONLIGHT CAKE HOUSE SDN BHD\", \"category\": \"Retail\", \"date\": \"20/06/2018\", \"amount\": \"RM14.20\"}"}
+{"file_name": "X51007846395.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"24/06/2018\", \"amount\": \"12.80\"}"}
+{"file_name": "X51007846398.jpg", "ground_truth": "{\"brand\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"category\": \"General\", \"date\": \"22 JUN 2018\", \"amount\": \"RM8.50\"}"}
+{"file_name": "X51007846410.jpg", "ground_truth": "{\"brand\": \"IDEAL MENU GROUP SDN BHD\", \"category\": \"Dining\", \"date\": \"10/06/2018\", \"amount\": \"12.00\"}"}
+{"file_name": "X51007846412.jpg", "ground_truth": "{\"brand\": \"LAVENDER CONFECTIONERY & BAKERY S/B\", \"category\": \"Retail\", \"date\": \"17/06/2018\", \"amount\": \"26.50\"}"}
+{"file_name": "X51007846451.jpg", "ground_truth": "{\"brand\": \"PASIR EMAS HARDWARE SDN BHD\", \"category\": \"Retail\", \"date\": \"23/06/18\", \"amount\": \"36.00\"}"}
+{"file_name": "X51008030560.jpg", "ground_truth": "{\"brand\": \"RESTORAN DE COFFEE O\", \"category\": \"Dining\", \"date\": \"03/04/2018\", \"amount\": \"11.60\"}"}
+{"file_name": "X51008030565.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"04-04-2018\", \"amount\": \"7.80\"}"}
+{"file_name": "X51008030566.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"09-04-2018\", \"amount\": \"8.60\"}"}
+{"file_name": "X51008042777.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"26-05-2018\", \"amount\": \"4.80\"}"}
+{"file_name": "X51008042778.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"05-05-2018\", \"amount\": \"19.40\"}"}
+{"file_name": "X51008042782.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"02-04-2018\", \"amount\": \"6.70\"}"}
+{"file_name": "X51008042783.jpg", "ground_truth": "{\"brand\": \"GERBANG ALAF RESTAURANTS SDN BHD\", \"category\": \"Dining\", \"date\": \"11/05/2018\", \"amount\": \"18.90\"}"}
+{"file_name": "X51008042791.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"06-05-2018\", \"amount\": \"2.40\"}"}
+{"file_name": "X51008042792.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"06-05-2018\", \"amount\": \"5.00\"}"}
+{"file_name": "X51008042793.jpg", "ground_truth": "{\"brand\": \"SANG KEE CHERAS RESTAURANT\", \"category\": \"Dining\", \"date\": \"03/05/2018\", \"amount\": \"2.50\"}"}
+{"file_name": "X51008063849.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"28-05-18\", \"amount\": \"2.70\"}"}
+{"file_name": "X51008064061.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"03-05-18\", \"amount\": \"69.20\"}"}
+{"file_name": "X51008099041.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"30-06-2018\", \"amount\": \"4.20\"}"}
+{"file_name": "X51008099043.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"23-06-2018\", \"amount\": \"4.60\"}"}
+{"file_name": "X51008099044.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"18-06-2018\", \"amount\": \"6.50\"}"}
+{"file_name": "X51008099046.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"12-06-2018\", \"amount\": \"4.60\"}"}
+{"file_name": "X51008099048.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"09-06-2018\", \"amount\": \"4.80\"}"}
+{"file_name": "X51008099049.jpg", "ground_truth": "{\"brand\": \"PAPPARICH BMC\", \"category\": \"Dining\", \"date\": \"15 JUN 18\", \"amount\": \"17.22\"}"}
+{"file_name": "X51008099054.jpg", "ground_truth": "{\"brand\": \"10 GRAM GOURMET SBN BHD\", \"category\": \"Dining\", \"date\": \"11-06-2018\", \"amount\": \"15.00\"}"}
+{"file_name": "X51008099071.jpg", "ground_truth": "{\"brand\": \"LEONG HENG SHELL SERVICE STATION\", \"category\": \"Transport\", \"date\": \"20/06/18\", \"amount\": \"50.00\"}"}
+{"file_name": "X51008099073.jpg", "ground_truth": "{\"brand\": \"PROSPER NIAGA\", \"category\": \"General\", \"date\": \"26/06/18\", \"amount\": \"100.00\"}"}
+{"file_name": "X51008099081.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"01-06-2018\", \"amount\": \"4.80\"}"}
+{"file_name": "X51008099083.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"04-06-2018\", \"amount\": \"6.70\"}"}
+{"file_name": "X51008099084.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"26-06-2018\", \"amount\": \"4.60\"}"}
+{"file_name": "X51008099085.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"26-06-2018\", \"amount\": \"4.10\"}"}
+{"file_name": "X51008099087.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"11-06-2018\", \"amount\": \"7.80\"}"}
+{"file_name": "X51008099089.jpg", "ground_truth": "{\"brand\": \"RESTORAN WAN SHENG\", \"category\": \"Dining\", \"date\": \"20-06-2018\", \"amount\": \"9.60\"}"}
+{"file_name": "X51008099102.jpg", "ground_truth": "{\"brand\": \"MIZU MENTAI SDN. BHD.\", \"category\": \"Dining\", \"date\": \"04-06-2018\", \"amount\": \"68.00\"}"}
+{"file_name": "X51008114216.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"15-06-18\", \"amount\": \"8.95\"}"}
+{"file_name": "X51008114217.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"30-06-18\", \"amount\": \"27.25\"}"}
+{"file_name": "X51008114260.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"02-05-18\", \"amount\": \"23.60\"}"}
+{"file_name": "X51008114262.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"05-05-18\", \"amount\": \"137.15\"}"}
+{"file_name": "X51008114266.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"13-05-18\", \"amount\": \"22.90\"}"}
+{"file_name": "X51008114281.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"04-06-18\", \"amount\": \"23.40\"}"}
+{"file_name": "X51008114282.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"04-06-18\", \"amount\": \"20.90\"}"}
+{"file_name": "X51008114283.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"11-06-18\", \"amount\": \"11.25\"}"}
+{"file_name": "X51008114284.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (KUCHAI) SDN BHD\", \"category\": \"Retail\", \"date\": \"25-06-18\", \"amount\": \"17.45\"}"}
+{"file_name": "X51008114321.jpg", "ground_truth": "{\"brand\": \"FILL IN ENTERPRISE\", \"category\": \"General\", \"date\": \"03/06/18\", \"amount\": \"100.00\"}"}
+{"file_name": "X51008122920.jpg", "ground_truth": "{\"brand\": \"C W KHOO HARDWARE SDN BHD\", \"category\": \"Retail\", \"date\": \"04-05-18\", \"amount\": \"19.00\"}"}
+{"file_name": "X51008123446.jpg", "ground_truth": "{\"brand\": \"DION REALTIES SDN BHD\", \"category\": \"General\", \"date\": \"30/05/18\", \"amount\": \"5.00\"}"}
+{"file_name": "X51008123447.jpg", "ground_truth": "{\"brand\": \"DION REALTIES SDN BHD\", \"category\": \"General\", \"date\": \"28/05/18\", \"amount\": \"5.00\"}"}
+{"file_name": "X51008123450.jpg", "ground_truth": "{\"brand\": \"SANJUNG REALITI SDN. BHD.\", \"category\": \"General\", \"date\": \"27/06/18\", \"amount\": \"1.50\"}"}
+{"file_name": "X51008123451.jpg", "ground_truth": "{\"brand\": \"C W KHOO HARDWARE SDN BHD\", \"category\": \"Retail\", \"date\": \"11/06/2018\", \"amount\": \"48.00\"}"}
+{"file_name": "X51008123476.jpg", "ground_truth": "{\"brand\": \"DION REALTIES SDN BHD\", \"category\": \"General\", \"date\": \"25/06/18\", \"amount\": \"5.00\"}"}
+{"file_name": "X51008123580.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"17-06-18\", \"amount\": \"8.10\"}"}
+{"file_name": "X51008123586.jpg", "ground_truth": "{\"brand\": \"MYNEWS RETAIL SB\", \"category\": \"Retail\", \"date\": \"29/06/2018\", \"amount\": \"7.70\"}"}
+{"file_name": "X51008123599.jpg", "ground_truth": "{\"brand\": \"OGN GROUP SDN BHD\", \"category\": \"General\", \"date\": \"17/06/2018\", \"amount\": \"28.30\"}"}
+{"file_name": "X51008123604.jpg", "ground_truth": "{\"brand\": \"OGN GROUP SDN BHD\", \"category\": \"General\", \"date\": \"24/06/2018\", \"amount\": \"52.40\"}"}
+{"file_name": "X51008128052.jpg", "ground_truth": "{\"brand\": \"PANDAH INDAH PULAU KETAM RESTAURANT\", \"category\": \"Dining\", \"date\": \"30-04-2018\", \"amount\": \"93.00\"}"}
+{"file_name": "X51008128062.jpg", "ground_truth": "{\"brand\": \"RESTAURANT JIAWEI JIAWEI HOUSE\", \"category\": \"Dining\", \"date\": \"11/5/2018\", \"amount\": \"27.00\"}"}
+{"file_name": "X51008128065.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"03-05-18\", \"amount\": \"19.90\"}"}
+{"file_name": "X51008142005.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"28-04-2018\", \"amount\": \"65.70\"}"}
+{"file_name": "X51008142030.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"05-06-2018\", \"amount\": \"52.00\"}"}
+{"file_name": "X51008142031.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"22-05-2018\", \"amount\": \"71.00\"}"}
+{"file_name": "X51008142032.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"28-05-2018\", \"amount\": \"112.35\"}"}
+{"file_name": "X51008142033.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"19-05-2018\", \"amount\": \"42.40\"}"}
+{"file_name": "X51008142034.jpg", "ground_truth": "{\"brand\": \"MEGAH RETAIL SDN BHD\", \"category\": \"Retail\", \"date\": \"09/05/2018\", \"amount\": \"4.70\"}"}
+{"file_name": "X51008142038.jpg", "ground_truth": "{\"brand\": \"99 SPEED MART S/B\", \"category\": \"Groceries\", \"date\": \"28-01-18\", \"amount\": \"27.90\"}"}
+{"file_name": "X51008142058.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"20/04/2018\", \"amount\": \"87.45\"}"}
+{"file_name": "X51008142059.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"17/04/2018\", \"amount\": \"190.80\"}"}
+{"file_name": "X51008142060.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"26/05/2018\", \"amount\": \"121.90\"}"}
+{"file_name": "X51008142061.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"03/05/2018\", \"amount\": \"178.08\"}"}
+{"file_name": "X51008142062.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"02/05/2018\", \"amount\": \"361.46\"}"}
+{"file_name": "X51008142063.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"30/04/2018\", \"amount\": \"404.39\"}"}
+{"file_name": "X51008142065.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"23/05/2018\", \"amount\": \"162.71\"}"}
+{"file_name": "X51008142068.jpg", "ground_truth": "{\"brand\": \"KEDAI PAPAN YEW CHUAN\", \"category\": \"Retail\", \"date\": \"11/05/2018\", \"amount\": \"68.90\"}"}
+{"file_name": "X51008145450.jpg", "ground_truth": "{\"brand\": \"GH DISTRIBUTOR & MARKETING SDN BHD\", \"category\": \"General\", \"date\": \"20/06/2018\", \"amount\": \"85.20\"}"}
+{"file_name": "X51008145504.jpg", "ground_truth": "{\"brand\": \"AMTECH ELECTRICAL SUPPLIES\", \"category\": \"Electronics\", \"date\": \"27/06/18\", \"amount\": \"136.00\"}"}
+{"file_name": "X51008145505.jpg", "ground_truth": "{\"brand\": \"KT WONG TRADING\", \"category\": \"General\", \"date\": \"09/06/2018\", \"amount\": \"489.30\"}"}
+{"file_name": "X51008164420.jpg", "ground_truth": "{\"brand\": \"POPULAR BOOK CO. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"03/04/18\", \"amount\": \"7.30\"}"}
+{"file_name": "X51008164510.jpg", "ground_truth": "{\"brand\": \"OCEAN LC PACKAGING ENTERPRISE\", \"category\": \"General\", \"date\": \"27/06/2018\", \"amount\": \"RM152.00\"}"}
+{"file_name": "X51008164524.jpg", "ground_truth": "{\"brand\": \"MR. D.I.Y. (M) SDN BHD\", \"category\": \"Retail\", \"date\": \"15-07-18\", \"amount\": \"7.15\"}"}
+{"file_name": "X51008164525.jpg", "ground_truth": "{\"brand\": \"PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD\", \"category\": \"Groceries\", \"date\": \"03/07/2018\", \"amount\": \"30.45\"}"}
+{"file_name": "X51008164969.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"14-06-2018\", \"amount\": \"59.00\"}"}
+{"file_name": "X51008164991.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"13-06-2018\", \"amount\": \"35.00\"}"}
+{"file_name": "X51008164992.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"30-05-2018\", \"amount\": \"87.45\"}"}
+{"file_name": "X51008164996.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"17-06-2018\", \"amount\": \"58.00\"}"}
+{"file_name": "X51008164997.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"15-06-2018\", \"amount\": \"148.50\"}"}
+{"file_name": "X51008164998.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"20-06-2018\", \"amount\": \"38.00\"}"}
+{"file_name": "X51008164999.jpg", "ground_truth": "{\"brand\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"category\": \"Dining\", \"date\": \"23-06-2018\", \"amount\": \"179.50\"}"}
+{"file_name": "X51009453801.jpg", "ground_truth": "{\"brand\": \"GL HANDICRAFT & TAIL ORING\", \"category\": \"Retail\", \"date\": \"20/03/2018\", \"amount\": \"102.00\"}"}
+{"file_name": "X51009453804.jpg", "ground_truth": "{\"brand\": \"LIAN HING STATIONERY SDN BHD\", \"category\": \"Retail\", \"date\": \"27/03/2018\", \"amount\": \"12.00\"}"}

@@ -1,0 +1,50 @@
+{"file_name": "receipt_000.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2024-07-19\", \"amount\": \"40.28\"}"}
+{"file_name": "receipt_001.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2022-09-21\", \"amount\": \"77.30\"}"}
+{"file_name": "receipt_002.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2024-04-25\", \"amount\": \"70.69\"}"}
+{"file_name": "receipt_003.jpg", "ground_truth": "{\"brand\": \"Starbucks\", \"category\": \"Dining\", \"date\": \"2022-03-07\", \"amount\": \"127.11\"}"}
+{"file_name": "receipt_004.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2022-08-09\", \"amount\": \"65.14\"}"}
+{"file_name": "receipt_005.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2024-06-03\", \"amount\": \"144.74\"}"}
+{"file_name": "receipt_006.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2024-12-18\", \"amount\": \"101.41\"}"}
+{"file_name": "receipt_007.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-01-18\", \"amount\": \"52.99\"}"}
+{"file_name": "receipt_008.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2023-05-20\", \"amount\": \"117.62\"}"}
+{"file_name": "receipt_009.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2023-02-05\", \"amount\": \"68.56\"}"}
+{"file_name": "receipt_010.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2024-04-22\", \"amount\": \"60.88\"}"}
+{"file_name": "receipt_011.jpg", "ground_truth": "{\"brand\": \"Starbucks\", \"category\": \"Dining\", \"date\": \"2022-05-24\", \"amount\": \"102.21\"}"}
+{"file_name": "receipt_012.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2024-09-10\", \"amount\": \"84.26\"}"}
+{"file_name": "receipt_013.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2024-09-22\", \"amount\": \"9.76\"}"}
+{"file_name": "receipt_014.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2024-09-13\", \"amount\": \"45.54\"}"}
+{"file_name": "receipt_015.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-11-18\", \"amount\": \"123.06\"}"}
+{"file_name": "receipt_016.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2024-08-08\", \"amount\": \"51.47\"}"}
+{"file_name": "receipt_017.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2022-10-13\", \"amount\": \"18.09\"}"}
+{"file_name": "receipt_018.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-09-17\", \"amount\": \"68.63\"}"}
+{"file_name": "receipt_019.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2022-11-09\", \"amount\": \"8.90\"}"}
+{"file_name": "receipt_020.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2022-06-21\", \"amount\": \"102.59\"}"}
+{"file_name": "receipt_021.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2024-09-07\", \"amount\": \"68.35\"}"}
+{"file_name": "receipt_022.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2022-08-14\", \"amount\": \"120.76\"}"}
+{"file_name": "receipt_023.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2022-05-14\", \"amount\": \"144.89\"}"}
+{"file_name": "receipt_024.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2022-09-18\", \"amount\": \"108.59\"}"}
+{"file_name": "receipt_025.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2024-05-22\", \"amount\": \"54.01\"}"}
+{"file_name": "receipt_026.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2024-02-27\", \"amount\": \"11.99\"}"}
+{"file_name": "receipt_027.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-10-02\", \"amount\": \"65.66\"}"}
+{"file_name": "receipt_028.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2022-06-25\", \"amount\": \"38.12\"}"}
+{"file_name": "receipt_029.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2024-01-21\", \"amount\": \"58.80\"}"}
+{"file_name": "receipt_030.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2022-11-05\", \"amount\": \"44.91\"}"}
+{"file_name": "receipt_031.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2022-02-18\", \"amount\": \"106.55\"}"}
+{"file_name": "receipt_032.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2023-03-18\", \"amount\": \"50.09\"}"}
+{"file_name": "receipt_033.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-09-21\", \"amount\": \"141.39\"}"}
+{"file_name": "receipt_034.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2023-07-08\", \"amount\": \"34.52\"}"}
+{"file_name": "receipt_035.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2022-04-09\", \"amount\": \"82.69\"}"}
+{"file_name": "receipt_036.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2022-02-27\", \"amount\": \"30.91\"}"}
+{"file_name": "receipt_037.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2023-03-21\", \"amount\": \"52.17\"}"}
+{"file_name": "receipt_038.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2022-09-01\", \"amount\": \"104.94\"}"}
+{"file_name": "receipt_039.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2024-07-15\", \"amount\": \"100.17\"}"}
+{"file_name": "receipt_040.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2022-09-22\", \"amount\": \"76.14\"}"}
+{"file_name": "receipt_041.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2024-08-22\", \"amount\": \"149.65\"}"}
+{"file_name": "receipt_042.jpg", "ground_truth": "{\"brand\": \"Starbucks\", \"category\": \"Dining\", \"date\": \"2023-01-12\", \"amount\": \"58.49\"}"}
+{"file_name": "receipt_043.jpg", "ground_truth": "{\"brand\": \"Walmart\", \"category\": \"Groceries\", \"date\": \"2024-11-03\", \"amount\": \"111.92\"}"}
+{"file_name": "receipt_044.jpg", "ground_truth": "{\"brand\": \"Starbucks\", \"category\": \"Dining\", \"date\": \"2022-03-05\", \"amount\": \"49.43\"}"}
+{"file_name": "receipt_045.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-08-10\", \"amount\": \"6.04\"}"}
+{"file_name": "receipt_046.jpg", "ground_truth": "{\"brand\": \"Home Depot\", \"category\": \"Hardware\", \"date\": \"2023-01-21\", \"amount\": \"101.77\"}"}
+{"file_name": "receipt_047.jpg", "ground_truth": "{\"brand\": \"Target\", \"category\": \"Groceries\", \"date\": \"2024-04-01\", \"amount\": \"11.27\"}"}
+{"file_name": "receipt_048.jpg", "ground_truth": "{\"brand\": \"Shell\", \"category\": \"Transport\", \"date\": \"2023-12-17\", \"amount\": \"149.41\"}"}
+{"file_name": "receipt_049.jpg", "ground_truth": "{\"brand\": \"Best Buy\", \"category\": \"Electronics\", \"date\": \"2024-06-01\", \"amount\": \"45.80\"}"}
